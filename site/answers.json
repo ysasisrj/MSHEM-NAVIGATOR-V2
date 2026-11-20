@@ -1,0 +1,3569 @@
+[
+  {
+    "question": "When does a scaffold need to be inspected?",
+    "answer": "A competent person must check the scaffold for visible defects before each work shift. A competent scaffold inspector must also carry out a documented inspection at least every two weeks and after erection, alteration, relocation, severe weather, impact, overloading or any other event that could affect structural integrity, before use or continued use.",
+    "refs": [
+      "3.24.30"
+    ],
+    "variants": [
+      "how often do we inspect scaffolds",
+      "who checks scaffolding before each shift",
+      "when is a scaffold inspection due",
+      "scaffold inspection frequency",
+      "scaffold inspection after a storm",
+      "scaffolding two week inspection",
+      "how frequently should a scaffold be inspected",
+      "does a scaffold need inspecting every shift",
+      "how often do I need to check a scaffold",
+      "when do scaffolds need inspection",
+      "who is responsible for scaffold inspections"
+    ]
+  },
+  {
+    "question": "What happens to my permit if work conditions change?",
+    "answer": "Stop permitted work and suspend the permit if the work scope, method, location, equipment, hazards, isolation boundaries or worksite conditions change. The same applies if a required control fails or anyone identifies that the work cannot be done safely. Resume only after conditions are reassessed, controls are restored or revised and an authorized person revalidates the permit.",
+    "refs": [
+      "3.21.24",
+      "3.21.25"
+    ],
+    "variants": [
+      "can I keep working on the same permit if the job changes",
+      "permit suspension and restart",
+      "restart after a permit is suspended",
+      "permit to work changed conditions",
+      "PTW scope changed",
+      "can I continue working if my permit conditions change",
+      "what if conditions change during a permitted job",
+      "can we continue work if the permit scope changes",
+      "what do I do when conditions change during permitted work"
+    ]
+  },
+  {
+    "question": "Can a permit carry over to the next shift?",
+    "answer": "Complete a formal handover and revalidate the permit when work continues across a shift or the responsible permit personnel change. Before accepting responsibility, the incoming people must verify the scope, worksite conditions, isolations, Task Risk Assessment and required controls.",
+    "refs": [
+      "3.21.23"
+    ],
+    "variants": [
+      "permit handover at shift change",
+      "does a permit need revalidation at shift change",
+      "new permit receiver taking over",
+      "permit across shifts"
+    ]
+  },
+  {
+    "question": "How do we verify an energy isolation before starting work?",
+    "answer": "Before anyone is exposed, bring stored and residual energy to a safe state. A trained, competent and authorized person must verify the isolation at the point of work using an appropriate try/test or equivalent method. Keep measures in place for energy that could build up again.",
+    "refs": [
+      "3.23.7",
+      "3.23.34"
+    ],
+    "variants": [
+      "how to confirm equipment is isolated",
+      "prove isolation is effective",
+      "where to verify isolation",
+      "stored energy verification",
+      "LOTO try test before starting work"
+    ]
+  },
+  {
+    "question": "What plan do we need before a lift?",
+    "answer": "Plan every lift before it starts. For a routine lift, use an approved SOP/SMP or repeat lifting plan within its defined equipment, loads, configuration, location and operating limits. A non-routine, complex or critical lift needs an activity-specific plan reviewed and approved by personnel with the required authority and competence. Before lifting, verify that the equipment, load, work area and controls match the approved plan.",
+    "refs": [
+      "3.26.16",
+      "3.26.18",
+      "3.26.19",
+      "3.26.20"
+    ],
+    "variants": [
+      "do routine lifts need a lifting plan",
+      "when do we need a lift plan",
+      "lifting plan for a non routine lift",
+      "do I need a plan for lifting",
+      "crane lifting plan before lifting"
+    ]
+  },
+  {
+    "question": "What if we lose communication during a lift?",
+    "answer": "Stop the lift if required communication is lost or misunderstood. The whole lifting team must understand the agreed communication method. If conditions have deviated from the plan, assess the change and reconfirm authorization before continuing.",
+    "refs": [
+      "3.26.25",
+      "3.26.21"
+    ],
+    "variants": [
+      "lost radio contact with the signaler",
+      "lifting signal unclear",
+      "crane operator cannot hear the banksman",
+      "communication lost during crane lift"
+    ]
+  },
+  {
+    "question": "What must be ready before confined space entry?",
+    "answer": "Use an approved Confined Space Entry Permit supported by an entry plan covering ventilation and rescue, a Job Safety Analysis and any other required permits or certificates. Before authorizing entry, the Permit Issuer and Receiver must verify isolations, atmospheric conditions and controls, access and egress, equipment, communication, PPE, attendant coverage and rescue arrangements.",
+    "refs": [
+      "3.25.13",
+      "3.25.15",
+      "3.25.28"
+    ],
+    "variants": [
+      "what do we need before entering a confined space",
+      "confined space entry requirements",
+      "entry permit rescue plan for a tank",
+      "before confined space entry",
+      "who verifies confined space entry controls"
+    ]
+  },
+  {
+    "question": "What if communication fails during confined space entry?",
+    "answer": "Suspend entry and evacuate the entrants if a required communication system or control fails, an emergency alarm activates, acceptable entry conditions are exceeded or another condition could endanger people. Before re-entry, reassess conditions, restore the controls, verify acceptable entry conditions again and obtain reauthorization.",
+    "refs": [
+      "3.25.20",
+      "3.25.21"
+    ],
+    "variants": [
+      "confined space radio failure",
+      "when to evacuate a confined space",
+      "can we re-enter after a confined space alarm",
+      "lost communication in a confined space"
+    ]
+  },
+  {
+    "question": "Can I stop permitted work if I think it is unsafe?",
+    "answer": "Yes. If anyone identifies that permitted work cannot be performed safely, the work must stop and the permit must be suspended. Leadership must support people who exercise authorized stop-work authority without fear of retaliation. Restart requires reassessment, restored or revised controls and permit revalidation by an authorized person.",
+    "refs": [
+      "3.21.24",
+      "2.2.4",
+      "3.21.25"
+    ],
+    "variants": [
+      "who can stop unsafe permitted work",
+      "can a contractor stop a permitted job",
+      "stop work authority unsafe job permit",
+      "unsafe permitted work stop work"
+    ]
+  },
+  {
+    "question": "How do I report a hazardous material spill?",
+    "answer": "Promptly report the release and record the event in HEMAYA if you were involved or witnessed it. Follow the site emergency arrangements if a response is needed. The responsible supervisor, line manager or incident lead ensures immediate protective action. The release must be promptly controlled.",
+    "refs": [
+      "3.20.35",
+      "6.1.1",
+      "6.1.9",
+      "6.1.10"
+    ],
+    "variants": [
+      "where do I report a chemical spill",
+      "how to report a hazardous material leak",
+      "reporting chemical release",
+      "I witnessed an oil spill how do I report it"
+    ]
+  },
+  {
+    "question": "What should we do if a worker develops heat strain symptoms?",
+    "answer": "Stop or restrict the work and remove the affected person from exposure. Refer them for the site medical response if heat-related illness is suspected. The same requirement applies to suspected cold-related illness.",
+    "refs": [
+      "3.15.16"
+    ],
+    "variants": [
+      "worker showing heat stress symptoms at work",
+      "heat strain when to stop work",
+      "what to do for heat illness onsite",
+      "cold strain symptoms during work"
+    ]
+  },
+  {
+    "question": "When do we need two forms of hearing protection?",
+    "answer": "Use dual hearing protection when the eight-hour noise exposure is 110 dBA or greater. Keep feasible and effective higher-order controls in place. If hearing protection cannot bring exposure below the applicable limit, apply additional controls and restrict exposure duration before work continues.",
+    "refs": [
+      "3.14.22",
+      "3.14.23",
+      "3.14.24"
+    ],
+    "variants": [
+      "when is double hearing protection required",
+      "dual hearing protection noise level",
+      "two hearing protectors",
+      "earplugs and earmuffs together at what noise level"
+    ]
+  },
+  {
+    "question": "When must I check a light vehicle before use?",
+    "answer": "Complete a documented pre-use inspection before the vehicle is first used each shift and after any event or change that may have affected its safety. Report and assess defects before continued use. Remove a vehicle with a safety-critical defect from service and secure it until the defect is corrected and a competent person verifies it is safe.",
+    "refs": [
+      "3.28.13"
+    ],
+    "variants": [
+      "light vehicle pre start check frequency",
+      "pre-use vehicle inspection every shift",
+      "what if a light vehicle has a safety critical defect",
+      "inspect a pickup before driving"
+    ]
+  },
+  {
+    "question": "Where can I walk on mine traffic routes?",
+    "answer": "Enter mine traffic routes only through designated walkways or specifically controlled work arrangements. Site traffic rules cover crossings, right-of-way and other interactions between pedestrians and vehicles.",
+    "refs": [
+      "3.29.12",
+      "3.29.11"
+    ],
+    "variants": [
+      "can pedestrians walk on a mine haul road",
+      "pedestrian access to mining traffic routes",
+      "walking around heavy vehicles on mine routes",
+      "pedestrian walkways on mine roads"
+    ]
+  },
+  {
+    "question": "What should the team discuss before starting the job?",
+    "answer": "Before work begins, brief the work party on the planned scope, hazards, required controls, emergency arrangements and conditions that require work to stop. Make sure the team understands them. Repeat the briefing after significant changes or when someone new joins the work party.",
+    "refs": [
+      "3.21.35"
+    ],
+    "variants": [
+      "what goes in the pre-job briefing",
+      "toolbox talk before starting permitted work",
+      "new worker joins do we repeat the briefing",
+      "pre task briefing topics"
+    ]
+  },
+  {
+    "question": "What does the scaffold tag at the access point tell me?",
+    "answer": "After a competent person inspects the scaffold, its status must be visible at the access points. Check whether the scaffold is approved for use, subject to restrictions or prohibited for use. Incomplete, defective, overloaded or unauthorized scaffolds must be protected from use. Read the status and restrictions on the tag and follow the site tagging procedure.",
+    "refs": [
+      "3.24.17",
+      "3.24.19"
+    ],
+    "variants": [
+      "scaffold tag status",
+      "what do scaffold tag colors mean",
+      "what color tag goes on a scaffold",
+      "how do I know if a scaffold is approved for use",
+      "how do I read the scaffold tag"
+    ]
+  },
+  {
+    "question": "Who can approve the lifting plan for a critical lift?",
+    "answer": "A critical lift needs an activity-specific lifting plan reviewed and approved by personnel with appropriate authority and technical competence. MSHEM specifies Rigger Level 3 competency as the minimum for complex or critical lifting plan review and approval. Use your site’s authorization arrangements to identify the appointed personnel.",
+    "refs": [
+      "3.26.19",
+      "3.26.27"
+    ],
+    "variants": [
+      "who approves a critical lift",
+      "who signs a critical lift plan",
+      "what rigger level is required to approve a complex lift",
+      "critical lift plan approval"
+    ]
+  },
+  {
+    "question": "How long must the fire watch stay after hot work?",
+    "answer": "Maintain a fire watch for at least 60 minutes after hot work. Provide up to three hours of additional monitoring where required. Check the fire hazard assessment, the Hot Work Permit and the applicable NFPA 51B requirements for the work.",
+    "refs": [
+      "3.22.21",
+      "3.22.22"
+    ],
+    "variants": [
+      "how long after welding does the fire watch stay",
+      "fire watch duration after hot work",
+      "post work fire watch time",
+      "how long is post hot work monitoring",
+      "how long should a fire watcher stay after welding",
+      "how long does the firewatch stay when the welding is finished"
+    ]
+  },
+  {
+    "question": "Who can approve marking an MSHEM requirement as not applicable?",
+    "answer": "Document why the requirement does not apply. The highest EHSS authority of the relevant Business Unit or Corporate Function must approve the decision and its justification.",
+    "refs": [
+      "2.1.8"
+    ],
+    "variants": [
+      "Who signs off on a requirement being not applicable?",
+      "Can a supervisor mark an MSHEM requirement N/A?",
+      "Who approves an applicability exclusion?"
+    ]
+  },
+  {
+    "question": "What do we do if our site cannot meet an applicable MSHEM requirement?",
+    "answer": "Document the proposed deviation, justify it and assess its risk. Identify alternative controls where necessary. Obtain approval from the management authority appropriate to the assessed risk. A deviation cannot authorize a breach of a law, regulation, permit, license, approval or regulatory directive.",
+    "refs": [
+      "2.1.9",
+      "2.1.10"
+    ],
+    "variants": [
+      "How do we request an MSHEM deviation?",
+      "Who approves a proposed exception to MSHEM?",
+      "Can we use a deviation when our site cannot comply with MSHEM?"
+    ]
+  },
+  {
+    "question": "Which requirement applies if a site permit is stricter than MSHEM?",
+    "answer": "Apply the more stringent requirement when multiple applicable requirements cover the same matter. The site must meet its binding obligations, including permit conditions. Business Units and Corporate Functions may set stricter controls for their own activities and risks while meeting applicable MSHEM requirements.",
+    "refs": [
+      "2.1.2",
+      "2.1.3"
+    ],
+    "variants": [
+      "Our permit sets a tighter limit than MSHEM. Which one do we follow?",
+      "Can the site require more than the corporate standard?",
+      "Which EHSS rule applies when local requirements are stricter?"
+    ]
+  },
+  {
+    "question": "Who is accountable for EHSS performance in operations?",
+    "answer": "Line management retains accountability for EHSS performance. That accountability cannot be delegated to EHSS personnel.",
+    "refs": [
+      "2.2.7"
+    ],
+    "variants": [
+      "Can operations delegate safety accountability to the EHSS department?",
+      "Does the safety team own line EHSS performance?",
+      "Who remains accountable for EHSS performance on the line?"
+    ]
+  },
+  {
+    "question": "Can contractors take part in hazard identification and incident investigations?",
+    "answer": "Yes. Employees and contractor personnel must have opportunities to participate in EHSS activities relevant to their work. These include consultation, hazard identification, risk assessments, incident investigations and improvement initiatives.",
+    "refs": [
+      "2.2.9"
+    ],
+    "variants": [
+      "Should contractors be involved in a risk assessment for their work?",
+      "Can workers participate in investigations affecting their jobs?",
+      "Can contractor personnel take part in safety consultations?"
+    ]
+  },
+  {
+    "question": "What should a manager check and follow up during a visible EHSS leadership visit?",
+    "answer": "Engage with workers, verify how well controls are working, reinforce desired behaviours and identify problems or improvements. Focus the visit on material risks, control effectiveness, EHSS performance, serious injury and fatality prevention and workforce concerns. Document, communicate and address significant observations, issues and actions.",
+    "refs": [
+      "2.2.12",
+      "2.2.13"
+    ],
+    "variants": [
+      "What should an EHSS leadership walk cover?",
+      "How should a leader follow up significant safety walk observations?",
+      "What should a manager look for during a field leadership visit?"
+    ]
+  },
+  {
+    "question": "Can our Business Unit issue its own EHSS policy?",
+    "answer": "Use the approved Maaden EHSS Policy. The CEO approves the policy, which provides the framework for EHSS objectives and improvement. Business Units and Corporate Functions must apply it and must not establish or use a separate EHSS policy.",
+    "refs": [
+      "2.3.2",
+      "2.3.3"
+    ],
+    "variants": [
+      "Does each site need its own EHSS policy?",
+      "Who approves Maaden’s EHSS policy?",
+      "Can we maintain a separate BU safety policy?"
+    ]
+  },
+  {
+    "question": "What belongs in an EHSS objective and its action plan?",
+    "answer": "Define the relevant baseline, measurable target, timeframe and how achievement will be judged. In the plan, name the accountable owner, actions, resources, completion dates and applicable milestones. Specify the indicators or criteria for monitoring progress and evaluating the result.",
+    "refs": [
+      "2.3.9",
+      "2.3.13"
+    ],
+    "variants": [
+      "What details should I put in an EHSS improvement objective?",
+      "How do we document the owner and progress measures for a safety objective?",
+      "What should an EHSS objective plan contain?"
+    ]
+  },
+  {
+    "question": "When must we review our EHSS objectives and plans?",
+    "answer": "Formally review them at least once a year. Review them sooner when necessary because activities, assets, risks, obligations, operating conditions or business priorities change, after significant incidents or findings, or when progress falls short or an improvement opportunity is identified. Justify, approve, document and communicate changes to those affected.",
+    "refs": [
+      "2.3.17",
+      "2.3.18",
+      "2.3.19"
+    ],
+    "variants": [
+      "How often are EHSS objective plans reviewed?",
+      "Do we revisit safety objectives after a significant incident?",
+      "What happens to an EHSS plan if a target is missed?"
+    ]
+  },
+  {
+    "question": "When must we check for changes to EHSS legal requirements?",
+    "answer": "Review and update EHSS legal and regulatory requirements at least annually and when requirements are introduced or amended, or activities or operations change. Competent personnel must identify and evaluate the requirements, supported by specialists where needed.",
+    "refs": [
+      "2.4.3",
+      "2.4.4"
+    ],
+    "variants": [
+      "How often must our site update its legal obligations?",
+      "Do we wait for the annual legal review if operations change?",
+      "Who should evaluate new EHSS regulations?"
+    ]
+  },
+  {
+    "question": "What information must the site legal register contain?",
+    "answer": "Record applicable EHSS legal and regulatory requirements, including permit conditions, approvals, licenses and regulatory authorizations. Identify their sources, the activities and obligations they cover, responsible roles, compliance controls and applicable validity or renewal requirements. Maintain the register and review it at least annually.",
+    "refs": [
+      "2.4.6"
+    ],
+    "variants": [
+      "What goes in the EHSS legal and regulatory register?",
+      "Where should we record permit renewals and compliance owners?",
+      "What information do we need to record for a legal obligation?"
+    ]
+  },
+  {
+    "question": "What must happen when an EHSS legal requirement has been breached?",
+    "answer": "Document and evaluate the non-compliance, escalate it appropriately and track corrective actions to closure. Fulfil the regulatory notification and reporting requirements that apply to the breach.",
+    "refs": [
+      "2.4.11"
+    ],
+    "variants": [
+      "How do we handle a regulatory non-compliance?",
+      "What follows an EHSS legal breach?",
+      "Do we have to follow up a legal noncompliance until closure?"
+    ]
+  },
+  {
+    "question": "What is the difference between initial risk and residual risk?",
+    "answer": "Assess initial risk before giving credit to controls that prevent the unwanted event or reduce its consequences. Assess residual risk after giving credit only to controls that meet Maaden’s requirements for effectiveness, independence and reliability.",
+    "refs": [
+      "2.5.6",
+      "2.5.7"
+    ],
+    "variants": [
+      "Can we count existing controls when rating initial risk?",
+      "Which safeguards count in the residual risk rating?",
+      "How do I distinguish a risk rating before and after controls?"
+    ]
+  },
+  {
+    "question": "When must we reassess an approved risk before its approval expires?",
+    "answer": "For an approved Medium, Significant, High or Critical risk, reassess before approval expires. Reassess sooner if the scope, operating conditions, assumptions, people affected, possible consequences or effectiveness of a credited control change. An open risk requires review and reapproval before its acceptance can be renewed.",
+    "refs": [
+      "2.5.11",
+      "2.5.24"
+    ],
+    "variants": [
+      "Can a risk approval simply roll over at expiry?",
+      "Does a change in the effectiveness of a control trigger risk reassessment?",
+      "When must an approved high risk be reassessed?"
+    ]
+  },
+  {
+    "question": "What does the risk assessment need to say about temporary controls?",
+    "answer": "When risk cannot immediately be reduced to as low as reasonably practicable, identify, implement and monitor interim controls until permanent measures are in place. Specify each interim control’s performance requirements, how it will be verified and how often. If interim controls are missing or do not reduce the initial risk, escalate approval to a higher authority.",
+    "refs": [
+      "2.5.13",
+      "2.5.14",
+      "2.5.15"
+    ],
+    "variants": [
+      "How do we verify an interim risk control?",
+      "What if an interim control does not reduce the initial risk?",
+      "What do we document about interim controls while waiting for a permanent solution?"
+    ]
+  },
+  {
+    "question": "What makes a control a critical control?",
+    "answer": "It must directly prevent a material unwanted event or reduce its consequences. Losing it must significantly increase the likelihood or severity of the event despite other controls, and its required performance must be definable and verifiable. Consider its importance, reliability and contribution relative to other controls. A procedure, training program or inspection activity qualifies only if it independently meets the criteria.",
+    "refs": [
+      "2.6.6",
+      "2.6.7"
+    ],
+    "variants": [
+      "Is training automatically a critical control?",
+      "How do we decide whether a control is critical?",
+      "What criteria distinguish critical controls from supporting activities?"
+    ]
+  },
+  {
+    "question": "Can work continue if a critical control fails its Go/No-Go check?",
+    "answer": "No. Confirm applicable task-dependent controls before exposure to a fatal hazard. If a Go/No-Go criterion is unmet, keep people out of the exposure or stop the affected work. Address and escalate the deficiency according to its significance. Any temporary substitution, impairment or alternative arrangement requires formal assessment and authorization through the applicable risk, bypass or change process.",
+    "refs": [
+      "2.6.13",
+      "2.6.14",
+      "2.6.18"
+    ],
+    "variants": [
+      "What if a task critical control fails before the job starts?",
+      "Can we carry on when a Go/No-Go criterion is not met?",
+      "Can we use a substitute for an impaired critical control?"
+    ]
+  },
+  {
+    "question": "Who owns a fatal hazard and who owns its critical controls?",
+    "answer": "Operational line management leads Critical Control Management. Assign a Risk Owner to each fatal hazard or defined group of related material unwanted events, and a Control Owner to each critical control. Define who implements, verifies, evaluates and reports the controls. EHSS, Risk and technical functions support and assure the process.",
+    "refs": [
+      "2.6.3",
+      "2.6.4"
+    ],
+    "variants": [
+      "What is the difference between a Risk Owner and a Control Owner?",
+      "Who leads Critical Control Management in operations?",
+      "Who is assigned to each critical control?"
+    ]
+  },
+  {
+    "question": "Can someone start critical-risk work as soon as they attend training?",
+    "answer": "Complete the required training and verify competence before the person performs critical-risk or role-specific work. Revalidate competence at defined intervals and keep required certifications, licenses and authorizations current and valid.",
+    "refs": [
+      "2.7.5",
+      "2.7.7"
+    ],
+    "variants": [
+      "Is completing a course enough to start critical-risk work?",
+      "When must a worker’s competence be verified?",
+      "Do licenses for role-specific work have to remain current?"
+    ]
+  },
+  {
+    "question": "Do visitors and contractors need induction before entering a Maaden workplace?",
+    "answer": "Yes. Employees, contractor personnel and visitors must receive the applicable EHSS induction and awareness information before accessing or undertaking activities in a Maaden-controlled workplace.",
+    "refs": [
+      "2.7.12"
+    ],
+    "variants": [
+      "When does a visitor need site induction?",
+      "Does a contractor need an induction before site access?",
+      "Who must receive workplace induction?"
+    ]
+  },
+  {
+    "question": "What if mandatory EHSS training has to be postponed?",
+    "answer": "Formally authorize, risk assess and document a suspension, deferral or significant interruption of mandatory training or required awareness programs. Establish interim controls and a recovery plan covering affected priority roles and requirements, responsibilities, completion or reinstatement criteria, monitoring and escalation. Required training still has to be completed before the person undertakes work that requires it.",
+    "refs": [
+      "2.7.7",
+      "2.7.8"
+    ],
+    "variants": [
+      "Can we defer required safety training without a recovery plan?",
+      "What do we document when mandatory training is interrupted?",
+      "How do we manage a postponed mandatory EHSS course?"
+    ]
+  },
+  {
+    "question": "Which nine Life Saving Rules does Maaden use?",
+    "answer": "The nine rules cover Permit to Work, Confined Space, Energy Isolation, Line of fire, Working at height, Mobile equipment, Geotechnical Ground Control and Stability, Hazardous Materials and Explosives, and EHSS Critical Systems Bypass.",
+    "refs": [
+      "2.8.1"
+    ],
+    "variants": [
+      "List Maaden’s Life Saving Rules.",
+      "What are the nine LSRs?",
+      "Which hazards and activities are covered by the Life Saving Rules?"
+    ]
+  },
+  {
+    "question": "Does every unsafe act involving a Life Saving Rule count as an LSR violation?",
+    "answer": "An event counts as an LSR violation only when it meets the applicable approved Maaden trigger criteria. These criteria define the acts, omissions or conditions that constitute a violation. Report, record, classify and manage LSR violations through Incident Management and Stewardship.",
+    "refs": [
+      "2.8.2",
+      "2.8.3",
+      "2.8.7"
+    ],
+    "variants": [
+      "How do we decide whether an incident is an LSR violation?",
+      "What makes an event a Life Saving Rule violation?",
+      "Do we classify a Life Saving Rule event using approved triggers?"
+    ]
+  },
+  {
+    "question": "What should the crew do if a Life Saving Rule trigger is present?",
+    "answer": "Do not start or continue the affected work until the condition is safe and the applicable control requirements are satisfied. People doing the work, including contractors, must be informed of the relevant rule and its triggers. Critical control verification and Go/No-Go requirements still apply.",
+    "refs": [
+      "2.8.5",
+      "2.8.6"
+    ],
+    "variants": [
+      "Can a job continue when a Life Saving Rule trigger exists?",
+      "When can work resume after an LSR trigger?",
+      "What do contractors need to know about the Life Saving Rule that applies?"
+    ]
+  },
+  {
+    "question": "Which operating conditions belong in an environmental impact assessment?",
+    "answer": "Consider routine and non-routine work, abnormal operating conditions, reasonably foreseeable emergencies, planned changes and projects, closure and rehabilitation, and applicable legacy conditions. Include activities, products, services, projects and facilities that your Business Unit or Corporate Function controls or influences.",
+    "refs": [
+      "3.1.1",
+      "3.1.2"
+    ],
+    "variants": [
+      "Should abnormal conditions be included in an environmental risk assessment?",
+      "Do we consider closure and rehabilitation when identifying environmental risks?",
+      "Which activities and changes are in scope for environmental impact identification?"
+    ]
+  },
+  {
+    "question": "When must we review environmental risks and impacts?",
+    "answer": "Review at defined intervals and after significant operational or facility changes, new information that may affect the assessment, a significant environmental incident, changes to applicable obligations, or a finding that calls for reassessment. Update the assessment where necessary. Evaluate changes that could alter risks, impacts, obligations or controls through the applicable Management of Change process.",
+    "refs": [
+      "3.1.16",
+      "3.1.17"
+    ],
+    "variants": [
+      "Does an environmental incident require a review of the impact assessment?",
+      "When should the environmental risk assessment be updated?",
+      "Do we reassess environmental impacts if a permit condition changes?"
+    ]
+  },
+  {
+    "question": "Where do we record environmental risks and what if a shared resource may be affected?",
+    "answer": "Maintain environmental risks and impacts in a controlled register. If an impact may affect external stakeholders, ecosystems, protected areas or shared resources, the Business Unit must consider the applicable stakeholders and regulatory requirements.",
+    "refs": [
+      "3.1.9",
+      "3.1.15"
+    ],
+    "variants": [
+      "Where are environmental risks and impacts recorded?",
+      "What if an environmental impact could affect a protected area or shared resource?",
+      "Does the environmental risk register need to cover effects on external stakeholders?"
+    ]
+  },
+  {
+    "question": "Can work start while a required environmental permit is still pending?",
+    "answer": "Obtain the required environmental permits, licenses and approvals before the activity begins and maintain them throughout the period they apply. Escalate permitting delays and compliance risks through the applicable governance process and include them in the relevant operational and project risk registers.",
+    "refs": [
+      "3.2.3",
+      "3.2.5"
+    ],
+    "variants": [
+      "Can we start a project before environmental approval arrives?",
+      "What do we do if an environmental permit is delayed?",
+      "When must the environmental permit already be in place?"
+    ]
+  },
+  {
+    "question": "What should we check before changing a process covered by an environmental permit?",
+    "answer": "Before implementing the change, assess how it will affect environmental permits, approvals and compliance obligations through section 3.52 Management of Change. Obtain any required permits, licenses and approvals before the affected activity begins.",
+    "refs": [
+      "3.2.8",
+      "3.2.3"
+    ],
+    "variants": [
+      "Does an operating change need an environmental permit review?",
+      "When do we check the impact of a modification on our environmental approvals?",
+      "Can we change a permitted process before assessing its permit conditions?"
+    ]
+  },
+  {
+    "question": "How do we handle an actual or potential breach of an environmental permit?",
+    "answer": "Identify, report and manage the issue. Investigate its causes and what needs correcting. The relevant Business Unit assigns and tracks actions and verifies their effectiveness. For reportable events, notify and respond to the authority in the manner and time required by the applicable laws, permit conditions or regulatory directions.",
+    "refs": [
+      "3.2.14",
+      "3.2.15",
+      "3.2.16"
+    ],
+    "variants": [
+      "What follows a suspected environmental permit breach?",
+      "How quickly do we notify the regulator of environmental non-compliance?",
+      "Who verifies corrective actions after environmental non-compliance?"
+    ]
+  },
+  {
+    "question": "Where do I find what to sample and how often for environmental monitoring?",
+    "answer": "Use the documented environmental monitoring plan. It defines the applicable monitoring locations, parameters, methods, frequencies, limits, trigger levels, data quality, reporting and escalation requirements. Review and update it following significant changes affecting its basis, scope or requirements.",
+    "refs": [
+      "3.3.4",
+      "3.3.5",
+      "3.3.6"
+    ],
+    "variants": [
+      "What sets the sampling frequency and location for environmental monitoring?",
+      "Which limits and triggers go into our environmental monitoring plan?",
+      "Do we revise our sampling plan after a significant change?"
+    ]
+  },
+  {
+    "question": "Can unvalidated environmental monitoring results be used in a report?",
+    "answer": "Competent Business Unit environmental personnel must review and validate the data before they are used for decisions, performance evaluation or external reporting. Investigate and address incomplete, unreliable or invalid results before use. Retain records showing data quality and validation.",
+    "refs": [
+      "3.3.9",
+      "3.3.10"
+    ],
+    "variants": [
+      "Who validates environmental sampling data?",
+      "Can I report incomplete environmental monitoring results?",
+      "Do environmental monitoring data need validation before decision-making?"
+    ]
+  },
+  {
+    "question": "What happens when environmental monitoring shows a limit exceedance?",
+    "answer": "Apply the documented criteria for limits and internal trigger levels. Report, classify, investigate and escalate identified exceedances and actual or potential non-compliance under the applicable legal, regulatory, permit and incident management requirements. Implement corrective actions addressing the causes and verify their effectiveness.",
+    "refs": [
+      "3.3.11",
+      "3.3.12",
+      "3.3.13"
+    ],
+    "variants": [
+      "How do we respond to an environmental monitoring exceedance?",
+      "What if environmental sampling shows a result above a limit?",
+      "Do exceedances require investigation and follow-up?"
+    ]
+  },
+  {
+    "question": "Can we estimate environmental footprint data if a measurement is missing?",
+    "answer": "Identify, investigate, correct and document missing or unreliable footprint data. Use estimates or substitute data only when valid source data are unavailable or fail the defined data-quality criteria. Justify and document the substitution so it can be traced.",
+    "refs": [
+      "3.4.10",
+      "3.4.12"
+    ],
+    "variants": [
+      "Can we use estimates in our environmental footprint calculation?",
+      "What if environmental footprint source data are incomplete?",
+      "Do we have to justify a substitute footprint figure?"
+    ]
+  },
+  {
+    "question": "What must we do before changing an environmental footprint calculation method?",
+    "answer": "Assess, approve and document changes to calculation methods, factors, assumptions or estimation methods. For significant changes, evaluate the effect on reported inventories, historical performance, baselines and targets.",
+    "refs": [
+      "3.4.13"
+    ],
+    "variants": [
+      "Can we change an emissions factor used for environmental footprint reporting?",
+      "What if we change a footprint estimation assumption?",
+      "How do we handle a new environmental footprint calculation methodology?"
+    ]
+  },
+  {
+    "question": "What happens if our environmental footprint differs materially from its approved target?",
+    "answer": "Investigate and document the material deviation and escalate it according to the defined criteria. This applies to material deviations from approved baselines as well as targets.",
+    "refs": [
+      "3.4.16"
+    ],
+    "variants": [
+      "What if the environmental footprint is materially off target?",
+      "When is a footprint baseline deviation escalated?",
+      "Must we investigate a material change from the approved environmental footprint baseline?"
+    ]
+  },
+  {
+    "question": "Which sources belong in the site air emissions inventory?",
+    "answer": "Identify and maintain an inventory of applicable emission sources. Include point sources, flares, mobile and fugitive sources, emergency sources, and sources associated with wastewater, storage or temporary construction. Record locations, emission flows, pollutants, quantities and concentrations, applicable requirements, monitoring and calculation methods, receptors and control equipment.",
+    "refs": [
+      "3.5.4",
+      "3.5.5"
+    ],
+    "variants": [
+      "Should mobile equipment be in the air emissions inventory?",
+      "Do temporary construction sources count in the emissions inventory?",
+      "What needs to be recorded for each air emission source?"
+    ]
+  },
+  {
+    "question": "What should the site do about a significant dust event or an odour complaint?",
+    "answer": "Investigate and address significant fugitive emission and dust events and odour complaints. Identify and control applicable fugitive emission and dust sources. Implement monitoring, inspections, verification and leak detection and repair programs where obligations, permits or risk assessments require them.",
+    "refs": [
+      "3.5.10",
+      "3.5.11"
+    ],
+    "variants": [
+      "Do we investigate complaints about an odor from the site?",
+      "What happens after a significant fugitive dust event?",
+      "Are odor complaints covered by air emissions management?"
+    ]
+  },
+  {
+    "question": "How do we decide whether air emissions monitoring results are acceptable?",
+    "answer": "Evaluate results and trends against the applicable limits, permit conditions and internal criteria. Address exceedances and control failures. Verify required reports before submission and retain the associated records in line with regulatory requirements.",
+    "refs": [
+      "3.5.12",
+      "3.5.13"
+    ],
+    "variants": [
+      "What do we compare stack monitoring results against?",
+      "How do we evaluate an air emissions monitoring trend?",
+      "What do we do when an air emission control fails?"
+    ]
+  },
+  {
+    "question": "What do I do with waste if I cannot confirm whether it is hazardous?",
+    "answer": "Manage the waste as hazardous under the applicable requirements until its classification has been verified.",
+    "refs": [
+      "3.6.5"
+    ],
+    "variants": [
+      "How do I handle waste with an unknown classification?",
+      "Should unidentified waste be treated as hazardous?",
+      "Can we manage unclassified waste as ordinary waste?"
+    ]
+  },
+  {
+    "question": "Where should waste be separated and stored?",
+    "answer": "Separate waste at or as close as reasonably practicable to where it is generated. Keep hazardous waste apart from non-hazardous and incompatible streams. Use labelled, compatible containers and designated storage areas with controls against releases, unauthorized access and other applicable risks. Provide secondary containment, inspection access and emergency response provisions where required.",
+    "refs": [
+      "3.6.14",
+      "3.6.15"
+    ],
+    "variants": [
+      "Where do we segregate waste streams?",
+      "Can hazardous and non-hazardous waste be stored together?",
+      "What containers and storage controls are needed for waste?"
+    ]
+  },
+  {
+    "question": "What must we verify when handing waste to a contractor?",
+    "answer": "Use an approved, legally authorized provider and verify that both the provider and the receiving facility are authorized for the specific waste. Keep the movement traceable from generation through confirmed receipt, recovery, treatment or disposal using the applicable manifests, transport documents or equivalent tracking system. Manage the provider under Contractor EHSS Management.",
+    "refs": [
+      "3.6.17",
+      "3.6.18"
+    ],
+    "variants": [
+      "What evidence do we need when waste leaves the site?",
+      "Do we check the receiving facility as well as the waste transporter?",
+      "How far must we track an off-site waste shipment?"
+    ]
+  },
+  {
+    "question": "What do we have to include in the site water balance?",
+    "answer": "Account for material water inputs, outputs, transfers, storage, consumption, reuse, recycling and losses. Use the balance in operational and asset planning, risk management, water stewardship and regulatory compliance. Update it after significant changes to water supply, demand, infrastructure, operations or water-related risks.",
+    "refs": [
+      "3.7.15",
+      "3.7.16"
+    ],
+    "variants": [
+      "what goes into our water balance",
+      "when should we update the site water balance",
+      "do we count water losses and recycled water"
+    ]
+  },
+  {
+    "question": "When do we review controls for a shared water catchment?",
+    "answer": "Review catchment assessments and controls when water availability, demand, catchment conditions, regulatory requirements or foreseeable cumulative impacts change significantly.",
+    "refs": [
+      "3.7.12"
+    ],
+    "variants": [
+      "when should a catchment assessment be reviewed",
+      "water demand has changed in our catchment",
+      "what triggers a water catchment controls review"
+    ]
+  },
+  {
+    "question": "What happens if we breach a water permit or a water control fails?",
+    "answer": "Report, escalate, investigate and address the event through the applicable MSHEM processes. The same requirement covers water incidents, non-compliance, significant exceedances and findings.",
+    "refs": [
+      "3.7.31"
+    ],
+    "variants": [
+      "how do we handle a water permit breach",
+      "what if a wastewater control fails",
+      "do water exceedances need to be investigated"
+    ]
+  },
+  {
+    "question": "What energy factors should we consider when replacing equipment?",
+    "answer": "Consider the best available technology, energy performance over the equipment’s life, energy-efficiency specifications, design alternatives and total cost of ownership. Apply these considerations according to project scope and technical feasibility.",
+    "refs": [
+      "3.8.7"
+    ],
+    "variants": [
+      "what should procurement check for energy efficiency",
+      "which energy factors apply to buying replacement equipment",
+      "do we assess lifetime energy cost for new equipment"
+    ]
+  },
+  {
+    "question": "Who is responsible for appointing energy management personnel?",
+    "answer": "Business Units and Corporate Functions appoint competent personnel and define their responsibilities, authority and reporting lines. Those appointed need the competence to implement ISO 50001 and the applicable SEEC Framework obligations.",
+    "refs": [
+      "3.8.2"
+    ],
+    "variants": [
+      "who appoints the energy manager",
+      "what competence do energy management personnel need",
+      "who sets energy management roles and authority"
+    ]
+  },
+  {
+    "question": "What energy information must reach the management review?",
+    "answer": "At defined intervals, report energy performance, compliance, progress on action plans, verification of savings, key risks and corrective actions to the site, Business Unit and Corporate Sustainability governance forums under process 6.4.",
+    "refs": [
+      "3.8.8"
+    ],
+    "variants": [
+      "what must our energy performance report cover",
+      "who receives energy savings verification",
+      "where are energy risks and corrective actions reviewed"
+    ]
+  },
+  {
+    "question": "Can we explore or mine inside a UNESCO World Heritage property?",
+    "answer": "Maaden prohibits exploration and mining within properties inscribed on the UNESCO World Heritage List. For other legally protected or recognized biodiversity-sensitive areas affected by activities, Business Units and Corporate Functions must identify and manage potential impacts.",
+    "refs": [
+      "3.9.6"
+    ],
+    "variants": [
+      "is exploration allowed in a World Heritage site",
+      "can Maaden mine inside a UNESCO property",
+      "what about mining in an inscribed world heritage area"
+    ]
+  },
+  {
+    "question": "When does a site need a Biodiversity Action Plan?",
+    "answer": "Establish and implement a plan if significant biodiversity values or sensitive receptors are present, material biodiversity impacts or risks are identified, or an applicable obligation or commitment requires coordinated action.",
+    "refs": [
+      "3.9.15"
+    ],
+    "variants": [
+      "what triggers a biodiversity action plan",
+      "is a biodiversity plan required for sensitive receptors",
+      "when must we establish a BAP"
+    ]
+  },
+  {
+    "question": "In what order should we manage biodiversity impacts?",
+    "answer": "First avoid impacts. Minimize those that are unavoidable, then restore affected biodiversity. Consider offsets only for significant impacts that remain after evaluating those earlier measures.",
+    "refs": [
+      "3.9.20"
+    ],
+    "variants": [
+      "when can a biodiversity offset be considered",
+      "what is the biodiversity mitigation hierarchy",
+      "can compensation be our first biodiversity measure"
+    ]
+  },
+  {
+    "question": "Which document sets the operating limits for a tailings facility?",
+    "answer": "Use the facility’s current Operations, Maintenance and Surveillance Manual to operate, maintain and monitor the facility within its design intent and approved operating limits. The applicable controls cover deposition, storage capacity, water balance and management, seepage, containment, and prevention of overtopping or uncontrolled releases.",
+    "refs": [
+      "3.10.32"
+    ],
+    "variants": [
+      "what manual guides tailings facility operations",
+      "where do operators check tailings operating limits",
+      "what is the tailings OMS manual used for"
+    ]
+  },
+  {
+    "question": "What do we do when tailings monitoring shows an adverse trend?",
+    "answer": "Compare monitoring trends and signs of deterioration with the defined performance criteria. Use the Trigger Action Response Plan for exceedances and abnormal conditions. Have the results reviewed and approved as required by the Corporate Tailings Management Standard.",
+    "refs": [
+      "3.10.34"
+    ],
+    "variants": [
+      "what if a tailings trigger level is exceeded",
+      "which plan covers abnormal tailings readings",
+      "how do we respond to deterioration in tailings monitoring data"
+    ]
+  },
+  {
+    "question": "Do we need Management of Change before changing a tailings deposition plan?",
+    "answer": "Use Management of Change and the Corporate Tailings Management Standard for changes that could affect facility integrity or risk. This includes changes to deposition, water management or operating parameters. Review cumulative effects and update the affected risk assessments, designs and facility documents.",
+    "refs": [
+      "3.10.35"
+    ],
+    "variants": [
+      "what if we change tailings deposition arrangements",
+      "do tailings operating changes go through MOC",
+      "how are changes affecting tailings integrity controlled"
+    ]
+  },
+  {
+    "question": "When should a Mine Closure Plan be prepared and updated?",
+    "answer": "Prepare the plan for each applicable operation during project development and maintain it throughout the Life of Mine. Review and update it after material operational, regulatory, environmental, social, financial or closure-risk changes that may affect outcomes, liabilities, post-closure land use or planning assumptions.",
+    "refs": [
+      "3.11.4",
+      "3.11.6"
+    ],
+    "variants": [
+      "when do we start the mine closure plan",
+      "what changes trigger a mine closure plan update",
+      "must we plan mine closure during project development"
+    ]
+  },
+  {
+    "question": "How do we choose which areas to close progressively?",
+    "answer": "Identify, plan and implement progressive closure opportunities during operations. Prioritize them by how they reduce risk, advance closure objectives and post-closure land use, create value and reduce costs and liabilities. Include the activities in the Life of Mine plan and operational schedules.",
+    "refs": [
+      "3.11.18",
+      "3.11.19"
+    ],
+    "variants": [
+      "how do we prioritize progressive rehabilitation",
+      "when should progressive closure be scheduled",
+      "which criteria guide progressive mine closure"
+    ]
+  },
+  {
+    "question": "Which controls must continue during a temporary mine shutdown?",
+    "answer": "Put care and maintenance arrangements in place to protect people, maintain environmental and regulatory compliance, and manage security and asset-integrity risks. The arrangements must support either safe restart or progression to final closure.",
+    "refs": [
+      "3.11.33"
+    ],
+    "variants": [
+      "what happens to mine closure controls during suspension",
+      "what must a mine under care and maintenance cover",
+      "do site controls continue during a temporary closure"
+    ]
+  },
+  {
+    "question": "How should we group workers with similar exposures?",
+    "answer": "Establish and maintain Similar Exposure Groups for workers with comparable exposure profiles. Document the basis for grouping, material changes, relevant Safety Data Sheets and process-specific exposure information.",
+    "refs": [
+      "3.12.5"
+    ],
+    "variants": [
+      "what is a similar exposure group",
+      "how are workers assigned to an SEG",
+      "what should we document for a similar exposure group"
+    ]
+  },
+  {
+    "question": "When do we need to measure occupational exposure?",
+    "answer": "Conduct quantitative monitoring when required by law, an applicable MSHEM process, uncertainty in the assessment, abnormal results or trends, or the need to verify controls. Sample representative workers, tasks and operating conditions. Where relevant, evaluate combined exposures, extended schedules and gaps in coverage, and document the uncertainty.",
+    "refs": [
+      "3.12.12",
+      "3.12.13"
+    ],
+    "variants": [
+      "when is quantitative exposure monitoring required",
+      "when does industrial hygiene need to sample exposure",
+      "how do we choose representative exposure samples"
+    ]
+  },
+  {
+    "question": "What should workers be told about their exposure monitoring results?",
+    "answer": "Explain the occupational health hazards, exposure results, what they mean for health, required controls and what to do if controls fail. Make the information understandable to affected workers, addressing language, literacy and accessibility needs while protecting personal and medical information.",
+    "refs": [
+      "3.12.18"
+    ],
+    "variants": [
+      "how do we tell workers what their exposure results mean",
+      "what health hazard information must reach the work crew",
+      "do affected workers receive exposure monitoring information"
+    ]
+  },
+  {
+    "question": "What must we do before disturbing residue of unknown composition?",
+    "answer": "Identify or sample the material before disturbing it. Apply precautionary controls until its hazards and required controls are established under occupational health risk assessment and hazardous material management.",
+    "refs": [
+      "3.13.2"
+    ],
+    "variants": [
+      "can we clean out an unknown deposit",
+      "what if we do not know what a residue contains",
+      "what controls apply before disturbing unknown deposits"
+    ]
+  },
+  {
+    "question": "Can work continue if an airborne exposure limit is likely to be exceeded?",
+    "answer": "Withdraw affected people or stop their exposure if an applicable occupational exposure limit, short-term limit, ceiling limit or withdrawal criterion is exceeded or likely to be exceeded. Resume affected work only after controls are in place and verified effective. Report and investigate confirmed exceedances under process 6.1.",
+    "refs": [
+      "3.13.6"
+    ],
+    "variants": [
+      "what if airborne exposure is likely to exceed the limit",
+      "when may work restart after a chemical exposure exceedance",
+      "when should workers be withdrawn for airborne contamination"
+    ]
+  },
+  {
+    "question": "When does a tight-fitting respirator need a fit test and a seal check?",
+    "answer": "Fit-test it under ISO 16975-3 before first use, at least every 12 months and after changes that could affect the seal. The wearer must check the seal before each use and keep facial hair and other equipment from interfering with it.",
+    "refs": [
+      "3.13.16"
+    ],
+    "variants": [
+      "how often is respirator fit testing required",
+      "do I check my respirator seal every time",
+      "what if facial hair breaks the respirator seal"
+    ]
+  },
+  {
+    "question": "Can we subtract earplug protection from a personal noise exposure result?",
+    "answer": "Evaluate and report the personal noise result without subtracting hearing-protector attenuation. Use unprotected exposure for exposure characterization, Similar Exposure Group classification and Hearing Conservation Program enrollment.",
+    "refs": [
+      "3.14.9"
+    ],
+    "variants": [
+      "do earplugs reduce the reported noise result",
+      "is hearing conservation enrollment based on protected exposure",
+      "can we subtract earmuff attenuation from a noise measurement"
+    ]
+  },
+  {
+    "question": "What do we do if a noise control is damaged or ineffective?",
+    "answer": "Report the failed, degraded, bypassed or ineffective control, assess the risk and correct it. Verify noise controls against defined performance criteria under representative operating conditions. Escalate unresolved or material failures through the applicable MSHEM process.",
+    "refs": [
+      "3.14.15"
+    ],
+    "variants": [
+      "how do we verify a noise control works",
+      "what if an acoustic control is bypassed",
+      "when do we escalate noise control failures"
+    ]
+  },
+  {
+    "question": "Which areas need noise hazard signs or access controls?",
+    "answer": "Identify areas, equipment and tasks meeting the applicable noise-hazard criteria, including noise levels of 85 dBA or greater. Communicate the designation to affected personnel using applicable signs, access controls and hearing-protection requirements. Review and revise it when changes to exposure, work, equipment, controls or criteria could affect the designation.",
+    "refs": [
+      "3.14.18",
+      "3.14.19"
+    ],
+    "variants": [
+      "when does an area need a noise warning sign",
+      "what is the 85 dBA noise area designation",
+      "when do we update noise hazard signs"
+    ]
+  },
+  {
+    "question": "Can we use the weather forecast for heat stress screening?",
+    "answer": "Use Wet Bulb Globe Temperature measurements that represent the actual workplace. Consider workload, clothing, PPE and acclimatization using ISO 7243 criteria and recognized methods. Forecasts can support planning. Workplace measurements are required where local conditions materially affect exposure.",
+    "refs": [
+      "3.15.11"
+    ],
+    "variants": [
+      "is a weather app enough to assess heat stress",
+      "how do we screen heat stress on site",
+      "must WBGT reflect the actual work area"
+    ]
+  },
+  {
+    "question": "Can a returning worker go straight back to full heat exposure?",
+    "answer": "New, returning or non-acclimatized personnel must complete supervised acclimatization or re-acclimatization before full thermal exposure. The process must define how exposure progresses, how personnel are monitored and what counts as completion.",
+    "refs": [
+      "3.15.14"
+    ],
+    "variants": [
+      "how do returning staff acclimatize to heat",
+      "do new workers need a supervised heat acclimatization process",
+      "when can a returning worker resume full thermal exposure"
+    ]
+  },
+  {
+    "question": "What happens if lighting is too poor for safe access or vehicle movement?",
+    "answer": "Correct the lighting deficiency before the affected activities continue, unless verified interim controls provide an acceptable level of safety. Keep affected areas restricted until suitable illumination is restored. This also applies to lighting deficiencies affecting safe work or emergency escape.",
+    "refs": [
+      "3.15.26"
+    ],
+    "variants": [
+      "can we work with failed lights",
+      "what if lighting on a vehicle route is unsafe",
+      "when can work continue with temporary lighting controls"
+    ]
+  },
+  {
+    "question": "What is required before using relocated radiation equipment again?",
+    "answer": "Test and verify the source, equipment or installation before use or return to service. Check radiological conditions, area classification and affected safety functions as applicable. The same requirement covers new and significantly modified sources, equipment and installations.",
+    "refs": [
+      "3.16.16"
+    ],
+    "variants": [
+      "does moving radiation equipment require verification",
+      "what checks follow relocation of a radiation source",
+      "can a modified radiation installation go straight back into use"
+    ]
+  },
+  {
+    "question": "Who can carry out radiation work in the field?",
+    "answer": "Only authorized, competent personnel may perform radiation work. They must work under documented authorization and controls proportionate to the radiological risks, including for temporary and field activities where applicable.",
+    "refs": [
+      "3.16.20"
+    ],
+    "variants": [
+      "who is authorized to work with radiation",
+      "do temporary radiation jobs need documented authorization",
+      "what qualifications apply to field radiation work"
+    ]
+  },
+  {
+    "question": "When is personal radiation dose monitoring required?",
+    "answer": "Provide individual dose monitoring when required by the NRRC or applicable authorization conditions. Use NRRC-recognized dosimetry services and methods suited to the nature, magnitude and pathways of potential exposure. If individual monitoring is infeasible, use an NRRC-approved method and representative workplace or worker exposure information.",
+    "refs": [
+      "3.16.23"
+    ],
+    "variants": [
+      "when must workers receive individual dosimetry",
+      "what if personal dose monitoring is not feasible",
+      "which dosimetry services are acceptable"
+    ]
+  },
+  {
+    "question": "How should we manage repeated manual lifting or carrying?",
+    "answer": "Screen manual handling activities and assess tasks that could cause musculoskeletal injury. Eliminate or reduce the risk through work design and the hierarchy of controls. Options include mechanical assistance, team handling and changes to storage, equipment, work processes or how materials move.",
+    "refs": [
+      "3.17.13",
+      "3.17.14"
+    ],
+    "variants": [
+      "how do we control manual handling risk",
+      "should we assess lifting and carrying tasks",
+      "what options reduce manual material handling"
+    ]
+  },
+  {
+    "question": "What ergonomic factors matter when selecting hand tools?",
+    "answer": "Select and maintain tools and equipment to minimize the force workers must apply, awkward postures and hand-arm vibration throughout intended use.",
+    "refs": [
+      "3.17.16"
+    ],
+    "variants": [
+      "how should we choose tools for ergonomics",
+      "what should tool selection consider for hand arm vibration",
+      "how do we limit force and awkward posture with tools"
+    ]
+  },
+  {
+    "question": "What should the site do about reports of discomfort linked to a task?",
+    "answer": "Evaluate reports and health findings that indicate a potential work-related musculoskeletal or other ergonomic effect. Assess the workplace factors that may be contributing and implement corrective actions.",
+    "refs": [
+      "3.17.19"
+    ],
+    "variants": [
+      "what happens after workers report pain from repetitive work",
+      "must the site evaluate possible ergonomic health effects",
+      "how should a supervisor handle task related discomfort reports"
+    ]
+  },
+  {
+    "question": "How can I raise a fatigue or fitness-for-work concern confidentially?",
+    "answer": "Use the confidential reporting method provided by your Business Unit or Corporate Function for fatigue, impairment, fitness or wellbeing concerns. Good-faith reporting must not be discouraged.",
+    "refs": [
+      "3.18.3"
+    ],
+    "variants": [
+      "is there confidential reporting for fatigue",
+      "can I report a fitness concern privately",
+      "how should workers raise wellbeing or impairment concerns"
+    ]
+  },
+  {
+    "question": "What should a supervisor do if fatigue risk is uncontrolled during a call-out?",
+    "answer": "Assess and control the risks from call-outs, overtime, shutdowns, turnarounds and other extended or unplanned work. If fatigue risk remains uncontrolled, reassign, restrict or stop safety-critical work. Provide necessary rest, recovery or safe transport.",
+    "refs": [
+      "3.18.18"
+    ],
+    "variants": [
+      "can safety critical work continue if overtime fatigue is uncontrolled",
+      "how should a supervisor manage fatigue during shutdown overtime",
+      "what if a callout leaves a worker too fatigued for safety critical work"
+    ]
+  },
+  {
+    "question": "What fitness information does a supervisor need before assigning work?",
+    "answer": "Match the assignment to the worker’s current fitness status and functional restrictions. The worker and the relevant people assigning or controlling the work receive the fitness status, restrictions and any required review date. Disclosing diagnoses or clinical records requires authorization under applicable legal and Maaden privacy requirements.",
+    "refs": [
+      "3.18.2",
+      "3.18.9"
+    ],
+    "variants": [
+      "what fitness restrictions must a supervisor consider",
+      "what can a supervisor know about fitness for duty",
+      "how should tasks be assigned after a fitness determination"
+    ]
+  },
+  {
+    "question": "What medical response arrangements are needed at a remote operation?",
+    "answer": "Use the needs assessment to establish medical first response, communication, stabilization, patient transport and escalation arrangements for remote locations or operations with limited access.",
+    "refs": [
+      "3.19.8"
+    ],
+    "variants": [
+      "how should a remote mine plan medical response",
+      "what arrangements are required where medical access is limited",
+      "does a remote operation need patient transport arrangements"
+    ]
+  },
+  {
+    "question": "Who approves health surveillance protocols and selects the required tests?",
+    "answer": "An authorized occupational health physician approves a protocol for each applicable hazard or exposure group. It defines who is covered, which baseline, periodic and exit assessments and tests apply, and their frequency. It also sets out authorized providers and laboratories, result interpretation and communication, follow-up, referral, work restrictions and return-to-exposure criteria.",
+    "refs": [
+      "3.19.17"
+    ],
+    "variants": [
+      "who signs off health surveillance protocols",
+      "who approves testing intervals for an exposure group",
+      "what goes into a health surveillance protocol"
+    ]
+  },
+  {
+    "question": "What can medical services share with management after health surveillance?",
+    "answer": "Tell management the work restrictions, review conditions and reassessment requirements needed to control work-related risk. Protect diagnoses and other unnecessary medical details. Disclose further medical information only when applicable obligations authorize or require it.",
+    "refs": [
+      "3.19.24"
+    ],
+    "variants": [
+      "may a manager see a diagnosis after occupational health surveillance",
+      "what belongs in medical recommendations to management",
+      "what medical restrictions can be shared with managers"
+    ]
+  },
+  {
+    "question": "What do I do with a container whose contents cannot be identified?",
+    "answer": "Secure the material against use, transfer or unintended interaction and treat it as hazardous. Keep those precautions in place until a documented technical evaluation establishes its identity, hazards and classification. Use testing or analysis if the available information is insufficient.",
+    "refs": [
+      "3.20.5"
+    ],
+    "variants": [
+      "can we use a chemical if its identity is uncertain",
+      "what happens to an unknown chemical container",
+      "how do we manage unidentified material",
+      "the container label is gone and I cannot identify what is inside what do I do",
+      "what do I do if the chemical in a container is unknown"
+    ]
+  },
+  {
+    "question": "Where do we get safety data sheets if the electronic system goes down?",
+    "answer": "The site must make current Safety Data Sheets and control information available at or near storage and use areas, accessible to personnel and emergency responders even during an outage. Check the local arrangement for accessing that information. Remove obsolete information from use and retain it where required.",
+    "refs": [
+      "3.20.17"
+    ],
+    "variants": [
+      "do safety data sheets need to be accessible offline",
+      "where should SDS be available for chemical users",
+      "what if I cannot access electronic safety data sheets"
+    ]
+  },
+  {
+    "question": "What has to be checked before starting a hazardous material transfer?",
+    "answer": "Verify the material, source, destination, available receiving capacity, transfer route, connections, containment and emergency arrangements before starting. Use engineered controls or independent verification where a transfer error could have serious consequences.",
+    "refs": [
+      "3.20.22"
+    ],
+    "variants": [
+      "what checks are needed before transferring chemicals",
+      "do we confirm receiving capacity before a tanker transfer",
+      "when does a chemical transfer need independent verification"
+    ]
+  },
+  {
+    "question": "Can the same person issue and receive a work permit?",
+    "answer": "The Permit Issuer and Permit Receiver must be two different authorized people. Each needs the authority, operational knowledge and competence for their assigned role.",
+    "refs": [
+      "3.21.3"
+    ],
+    "variants": [
+      "can I issue my own permit",
+      "can the permit receiver also be the issuer",
+      "does a permit need separate issuer and receiver",
+      "can the person who issues a permit also receive it",
+      "can one person be both the permit issuer and receiver"
+    ]
+  },
+  {
+    "question": "What must the issuer and receiver verify before issuing a permit?",
+    "answer": "An approved Task Risk Assessment must be complete before issue. At the work location, the issuer and receiver must verify the scope, confirm that site conditions have been assessed, and check that required controls are in place and effective.",
+    "refs": [
+      "3.21.11",
+      "3.21.12"
+    ],
+    "variants": [
+      "who verifies the worksite before issuing a permit",
+      "can a permit be issued before the task risk assessment",
+      "what should the permit issuer and receiver check together"
+    ]
+  },
+  {
+    "question": "Who coordinates simultaneous work under different permits?",
+    "answer": "The permit issuer coordinates interactions between simultaneous activities when they could add hazards, impair controls or increase risk. If several permits or permit systems apply to the same activity, a responsible person must be designated to coordinate their interfaces.",
+    "refs": [
+      "3.21.20",
+      "3.21.21"
+    ],
+    "variants": [
+      "who manages overlapping permits",
+      "who coordinates SIMOPS when tasks affect each other",
+      "several permits cover the same job who coordinates"
+    ]
+  },
+  {
+    "question": "Can we reuse last week's Job Safety Analysis?",
+    "answer": "Only after a competent review confirms it applies to this task, its hazards, current site conditions and interfaces. A generic or unreviewed JSA cannot authorize work.",
+    "refs": [
+      "3.21.36"
+    ],
+    "variants": [
+      "can we reuse an old JSA",
+      "does an existing job safety analysis need reviewing",
+      "can a generic JSA authorize today's task"
+    ]
+  },
+  {
+    "question": "When should we choose cold work instead of hot work?",
+    "answer": "Before authorizing hot work at the proposed location, determine whether the task can reasonably be completed by a cold method or moved to a designated hot work area. Hot work is authorized there only when neither option is reasonably available.",
+    "refs": [
+      "3.22.6"
+    ],
+    "variants": [
+      "can we weld in the field if a cold method is practical",
+      "when must cold work be considered",
+      "do we assess moving the job before authorizing hot work"
+    ]
+  },
+  {
+    "question": "How far must we clear combustibles around hot work?",
+    "answer": "Clear flammable and combustible materials for at least 11 metres in every direction, including adjacent areas and levels above and below. If removal is impracticable, protect the materials with suitable fire-resistant covers, screens, blankets or barriers. Increase the distance if sparks, slag or heat could travel farther.",
+    "refs": [
+      "3.22.18"
+    ],
+    "variants": [
+      "hot work combustible clearance distance",
+      "how many metres around welding must be clear",
+      "what if hot work combustibles cannot be moved"
+    ]
+  },
+  {
+    "question": "What must we check when hot work restarts after a break?",
+    "answer": "Recheck the required controls after every interruption and whenever relevant conditions change. If a control is missing, ineffective or invalid, stop. Resume only after reassessment, restoration or revision of the controls, and permit revalidation under 3.21.",
+    "refs": [
+      "3.22.24"
+    ],
+    "variants": [
+      "restarting welding after a break",
+      "must we recheck hot work controls after stopping",
+      "resuming hot work when conditions have changed"
+    ]
+  },
+  {
+    "question": "What must we look for in the final hot work inspection?",
+    "answer": "Inspect the area after the job to verify that no ignition source, smouldering material or other unsafe condition remains. The fire-watch and post-work monitoring periods also apply.",
+    "refs": [
+      "3.22.25",
+      "3.22.22"
+    ],
+    "variants": [
+      "what do we inspect when welding is finished",
+      "what should a hot work closeout inspection find",
+      "do we check for smouldering after hot work"
+    ]
+  },
+  {
+    "question": "Does pressing the stop button count as electrical isolation?",
+    "answer": "A push button, selector switch, interlock, software control or control circuit cannot be the only means of electrical isolation. Apply the required energy isolation and verification arrangements for the work.",
+    "refs": [
+      "3.23.21",
+      "3.23.20",
+      "3.23.22"
+    ],
+    "variants": [
+      "can I isolate a machine with the stop button",
+      "does switching off from the control screen isolate electricity",
+      "is an interlock alone a valid electrical isolation"
+    ]
+  },
+  {
+    "question": "Who may remove a personal lock if its owner is absent?",
+    "answer": "Normally only the person who applied a personal lock or tag removes it. Emergency removal requires the approved authorization process, protection of the affected person and verification that removal is safe under OSHA 29 CFR 1910.147.",
+    "refs": [
+      "3.23.26"
+    ],
+    "variants": [
+      "who can remove another person's lock",
+      "what if a worker left their personal lock behind",
+      "can a supervisor cut off an absent worker's lock"
+    ]
+  },
+  {
+    "question": "Does the permit issuer's lock protect everyone on the job?",
+    "answer": "Each exposed person needs a personal lock or an approved group lockout providing equivalent individual control. The permit issuer's isolation control lock is applied first and removed last. It cannot take the place of a personal lock.",
+    "refs": [
+      "3.23.23",
+      "3.23.29"
+    ],
+    "variants": [
+      "can we rely on the PTW issuer's lock",
+      "whose isolation control lock is first on and last off",
+      "does one issuer lock replace individual locks"
+    ]
+  },
+  {
+    "question": "Can a tag alone be used when an isolation point can be locked?",
+    "answer": "Use lockout on a lockable energy-isolating device. An alternative arrangement requires an approved assessment demonstrating equivalent or greater protection.",
+    "refs": [
+      "3.23.13"
+    ],
+    "variants": [
+      "can we tag instead of lock a lockable isolator",
+      "what if the isolation point accepts a padlock",
+      "when can an alternative to lockout be accepted"
+    ]
+  },
+  {
+    "question": "Do we need fall controls below 1.8 metres?",
+    "answer": "Yes, where the risk assessment identifies a potential for serious injury. At 1.8 metres or more to a lower level, fall hazards must be controlled. Provide personal fall protection where collective protection is inadequate.",
+    "refs": [
+      "3.24.21"
+    ],
+    "variants": [
+      "is fall protection needed under 1.8 m",
+      "working at height threshold for fall controls",
+      "does a short drop still need fall protection"
+    ]
+  },
+  {
+    "question": "What must happen before and during removal of floor grating?",
+    "answer": "Plan, assess and authorize the temporary opening before removing the grating. Maintain continuous protection during removal and reinstatement using secured load-bearing covers, guardrails or equivalent physical barriers. Where full protection is impossible, restrict access and control the work through an approved fall protection arrangement.",
+    "refs": [
+      "3.24.11",
+      "3.24.12",
+      "3.24.14"
+    ],
+    "variants": [
+      "what protects an opening while floor plates are removed",
+      "do we need authorization before removing grating",
+      "how do we protect a temporary platform opening"
+    ]
+  },
+  {
+    "question": "When must rescue capability be ready for work at height?",
+    "answer": "Establish rescue arrangements before anyone is exposed. Match them to the location and fall protection system, including people, equipment, communications, access, medical support and protection of rescuers. Keep the capability available throughout the work and verify it periodically according to risk and task complexity.",
+    "refs": [
+      "3.24.26",
+      "3.24.27"
+    ],
+    "variants": [
+      "do we need rescue ready before using fall arrest",
+      "how long must height rescue arrangements stay available",
+      "what must a fall rescue plan cover"
+    ]
+  },
+  {
+    "question": "Who checks my fall protection equipment and how often?",
+    "answer": "The user inspects it before every use. A competent person also performs a documented inspection at least annually, or sooner where required by the applicable ANSI/ASSP Z359 equipment standard, manufacturer instructions, usage, exposure or inspection history.",
+    "refs": [
+      "3.24.29"
+    ],
+    "variants": [
+      "how often should my fall arrest harness be inspected",
+      "is an annual harness check enough",
+      "who performs the documented fall protection equipment inspection"
+    ]
+  },
+  {
+    "question": "Can a confined space attendant leave the entry point or take another job?",
+    "answer": "A trained, competent and authorized Standby Man must stay outside each designated entry point while people are inside. The attendant must monitor entry continuously, maintain communication and take on no duty that interferes. Every entrant signs in and out on every entry and exit, and the attendant keeps the count accurate.",
+    "refs": [
+      "3.25.17"
+    ],
+    "variants": [
+      "can the standby man leave while entrants are inside",
+      "who keeps the confined space entry log",
+      "may the confined space attendant do other work"
+    ]
+  },
+  {
+    "question": "How often must the atmosphere in a confined space be checked?",
+    "answer": "Test before entry. During entry, the hazard assessment and entry plan set the monitoring frequency, with no more than two hours between checks. Test oxygen first, then flammable gases and vapours, then toxic contaminants, and address other identified atmospheric hazards.",
+    "refs": [
+      "3.25.22"
+    ],
+    "variants": [
+      "maximum time between confined space atmosphere tests",
+      "what order for confined space gas tests",
+      "how often should we gas test during entry"
+    ]
+  },
+  {
+    "question": "What atmospheric limits apply to confined space entry?",
+    "answer": "Acceptable conditions include oxygen from 19.5% to 22%, flammable gases and vapours below 10% of the lower flammable limit, and airborne contaminants within the applicable occupational exposure limits under 3.13. These readings are only part of the entry conditions.",
+    "refs": [
+      "3.25.23"
+    ],
+    "variants": [
+      "what oxygen range is acceptable in a confined space",
+      "what is the flammable gas limit for confined space entry",
+      "what atmospheric readings must meet the confined space entry limits"
+    ]
+  },
+  {
+    "question": "When should confined space rescue be carried out from outside?",
+    "answer": "Use non-entry rescue where practicable and where doing so does not increase risk. Rescue services must be competent, authorized, equipped, informed of the hazards, given access for preparation and able to respond within the time needed to protect entrants.",
+    "refs": [
+      "3.25.29",
+      "3.25.30"
+    ],
+    "variants": [
+      "when is non entry rescue preferred",
+      "must the rescue team know the confined space hazards",
+      "what capability must our confined space rescue service have"
+    ]
+  },
+  {
+    "question": "Can we use a sling with an unreadable capacity or expired certification?",
+    "answer": "Remove it from service. Inspect lifting equipment before use and withdraw items that lack identifiable capacity, have expired inspection or certification, are damaged or defective, or have an inoperable safety function.",
+    "refs": [
+      "3.26.10"
+    ],
+    "variants": [
+      "can I lift with an unreadable sling rating",
+      "lifting inspection certificate expired can we use the gear",
+      "when must lifting accessories be taken out of service"
+    ]
+  },
+  {
+    "question": "What happens to lifting equipment after an overload or dropped load?",
+    "answer": "Remove it from service. Its condition and suitability for return must be verified and its return authorized. This also applies after a collision, uncontrolled movement or another event that could affect integrity.",
+    "refs": [
+      "3.26.11"
+    ],
+    "variants": [
+      "can the crane be reused after overloading",
+      "what to do with gear after dropping a load",
+      "does lifting gear need to be withdrawn after a collision"
+    ]
+  },
+  {
+    "question": "Does a tandem lift or a blind lift count as critical?",
+    "answer": "Yes. Using more than one lifting machine and lifting with restricted operator visibility are each minimum critical-lift criteria. The full list in 3.26.14 also covers other situations, and a BU may apply stricter criteria.",
+    "refs": [
+      "3.26.14"
+    ],
+    "variants": [
+      "does a two crane lift count as critical",
+      "is restricted crane operator visibility a critical lift",
+      "is a blind lift classified as critical"
+    ]
+  },
+  {
+    "question": "May anyone pass under a suspended load?",
+    "answer": "No. Keep personnel from standing, passing or working beneath a suspended load. Set the exclusion zone to account for credible load movement, swing, overturning, collision and dropped-load hazards.",
+    "refs": [
+      "3.26.24"
+    ],
+    "variants": [
+      "can I walk under a suspended load",
+      "who may stand beneath a crane load",
+      "how is the lift exclusion zone determined"
+    ]
+  },
+  {
+    "question": "Can an experienced operator drive a different type of mobile equipment?",
+    "answer": "Only with a competency assessment for that equipment category and operating environment, and formal authorization subject to defined review and revalidation. Operators also need the site induction, operating-area orientation and applicable fitness for work.",
+    "refs": [
+      "3.27.3",
+      "3.27.4"
+    ],
+    "variants": [
+      "does experience alone qualify me to drive a loader",
+      "what authorization does a mobile equipment operator need",
+      "can I change equipment categories with my current operator training"
+    ]
+  },
+  {
+    "question": "What should I do if mobile equipment fails its pre-use inspection?",
+    "answer": "Report defects and remove unsafe equipment before operation. Withdraw equipment and prevent use if it is defective or damaged, its inspection or certification has expired, or a safety-critical system is inoperable. Apply the established defect and return-to-service controls.",
+    "refs": [
+      "3.27.12",
+      "3.27.21"
+    ],
+    "variants": [
+      "what if the loader has a safety critical defect",
+      "can mobile equipment run with expired certification",
+      "when must mobile equipment be withdrawn from use"
+    ]
+  },
+  {
+    "question": "When must the mobile equipment operator use a seat restraint?",
+    "answer": "Use the seat restraint and required operator protection systems whenever the equipment is capable of movement.",
+    "refs": [
+      "3.27.23"
+    ],
+    "variants": [
+      "do I need the loader seat restraint before it moves",
+      "when must I buckle up in mobile equipment",
+      "when do operator restraints have to be in use"
+    ]
+  },
+  {
+    "question": "How must unattended mobile equipment be left?",
+    "answer": "Park the equipment and use its parking and immobilization controls to secure it against unintended movement.",
+    "refs": [
+      "3.27.24"
+    ],
+    "variants": [
+      "what controls are needed when leaving a parked loader",
+      "how is unattended mobile equipment secured",
+      "how should a parked haul truck be left unattended"
+    ]
+  },
+  {
+    "question": "Is a driving licence enough to drive a light vehicle for Maaden work?",
+    "answer": "You need a valid licence recognized in Saudi Arabia for the vehicle class and formal Maaden authorization. Authorization checks your driving record and experience, induction, defensive driving training and practical competence, fitness to drive and knowledge of monitoring, traffic and journey requirements. Off-road, remote or specialized driving requires additional competence.",
+    "refs": [
+      "3.28.4"
+    ],
+    "variants": [
+      "do I need Maaden authorization to drive a pickup",
+      "can a licensed driver use a work light vehicle",
+      "what is checked before light vehicle driver authorization"
+    ]
+  },
+  {
+    "question": "Can I use a mobile phone while a work vehicle is moving?",
+    "answer": "Drivers must avoid phones and other distractions while moving. Operational communication systems may be used only when necessary for safe operations, without handling the device or compromising control. Park and secure the vehicle before any other communication-device use.",
+    "refs": [
+      "3.28.17"
+    ],
+    "variants": [
+      "can I take a phone call while driving a work vehicle",
+      "when can the driver use an operational radio",
+      "must I park before making a call"
+    ]
+  },
+  {
+    "question": "Can passengers ride in the cargo area of a pickup?",
+    "answer": "No. Drivers and passengers must occupy designated seats and wear functioning seat belts while moving. Stay within seating and load limits. Secure cargo and loose items so driving and emergency exit remain unobstructed.",
+    "refs": [
+      "3.28.16"
+    ],
+    "variants": [
+      "can people ride in the back of a pickup",
+      "may a worker sit among cargo in the vehicle",
+      "what seating restraints are required in a moving light vehicle"
+    ]
+  },
+  {
+    "question": "What must a driver do after a breakdown or collision?",
+    "answer": "Stop safely, request assistance, take reasonable measures to prevent further harm and follow the applicable emergency and security arrangements. Report incidents and near misses through 6.1 Incident Management and Stewardship.",
+    "refs": [
+      "3.28.19"
+    ],
+    "variants": [
+      "driver response after a work vehicle breakdown",
+      "what do I do after a company vehicle crash",
+      "who should act when a light vehicle breaks down"
+    ]
+  },
+  {
+    "question": "Can a traffic route stay open after conditions make it unsafe?",
+    "answer": "Inspect roads at the defined intervals and after events or changes that could affect safety. Correct identified hazards and restrict or close affected routes until they are verified safe for use.",
+    "refs": [
+      "3.29.10"
+    ],
+    "variants": [
+      "when do we inspect haul roads after a change",
+      "when should an unsafe site road be closed",
+      "when can a restricted traffic route reopen"
+    ]
+  },
+  {
+    "question": "Does a repeated trip need a separate journey plan every time?",
+    "answer": "Evaluate the need for travel and whether a documented Journey Management Plan is required. A standing plan may cover repeated journeys under stable conditions if it defines where it applies, the controls, review and change triggers. Consider route, duration, remoteness, night or off-road travel, conditions, lone travel, security, communication and emergency support.",
+    "refs": [
+      "3.29.13"
+    ],
+    "variants": [
+      "can we use a standing journey management plan",
+      "do regular trips need individual journey plans",
+      "which road journeys need a documented plan"
+    ]
+  },
+  {
+    "question": "Can I continue a work journey if the route or conditions change?",
+    "answer": "Follow the authorized route, rest, communication and check-in arrangements. Do not start or continue if conditions exceed limits or you cannot drive safely, including through fatigue. Communicate and reassess significant changes before continuing, except where immediate action is needed to reach a safe location.",
+    "refs": [
+      "3.29.15"
+    ],
+    "variants": [
+      "what if I must deviate from the approved journey route",
+      "can I continue a journey if I am tired",
+      "what if road conditions exceed our journey limits"
+    ]
+  },
+  {
+    "question": "What happens if a driver misses a scheduled journey check-in?",
+    "answer": "Use the defined contact and escalation actions. The same applies to overdue arrival, lost tracking or significant alerts. Monitor journeys requiring a Journey Management Plan according to risk, including confirmation of safe arrival.",
+    "refs": [
+      "3.29.16"
+    ],
+    "variants": [
+      "what do we do when a driver is overdue",
+      "when must lost journey tracking be escalated",
+      "what if a remote driver misses a check in"
+    ]
+  },
+  {
+    "question": "When may energized electrical work be considered?",
+    "answer": "Place the equipment in an electrically safe, de-energized condition before work unless de-energizing introduces a greater hazard or the work cannot be performed de-energized. Where energized work is permitted, document the justification, complete a task-specific risk assessment, obtain designated authorization and the permits required by 3.21.",
+    "refs": [
+      "3.30.7",
+      "3.30.8"
+    ],
+    "variants": [
+      "can we work live if shutting down is inconvenient",
+      "what justification does energized electrical work need",
+      "when does MSHEM allow consideration of live electrical work"
+    ]
+  },
+  {
+    "question": "When can electrical equipment be considered electrically safe to work on?",
+    "answer": "All applicable electrical sources must be identified and isolated, stored electrical energy controlled and absence of voltage verified. Consider generated, induced and back-fed energy, including batteries, uninterruptible power supplies, photovoltaic systems and capacitors.",
+    "refs": [
+      "3.30.12"
+    ],
+    "variants": [
+      "does isolating the mains establish an electrically safe work condition",
+      "must we consider UPS or solar backfeed before electrical work",
+      "when is absence of voltage verification required"
+    ]
+  },
+  {
+    "question": "What if we cannot maintain the required clearance from an overhead line?",
+    "answer": "Coordinate with the utility owner or person responsible for the electrical system before starting. The line must be de-energized, isolated, verified de-energized and grounded where required, or relocated or protected by approved engineered means.",
+    "refs": [
+      "3.30.26"
+    ],
+    "variants": [
+      "overhead power line clearance cannot be maintained what now",
+      "who coordinates work when overhead line clearance is insufficient",
+      "can work start if equipment cannot stay clear of power lines"
+    ]
+  },
+  {
+    "question": "How do we check a contractor electrician's authorization?",
+    "answer": "Before work, verify current authorization for the specific electrical work. The person must be competent and qualified where required, on the same basis as Maaden personnel doing equivalent work. Keep the authorization readily available to those assigning, supervising or authorizing the job.",
+    "refs": [
+      "3.30.32",
+      "3.30.34",
+      "3.30.35"
+    ],
+    "variants": [
+      "are contractor electricians subject to the same authorization requirements",
+      "when must electrical authorization be checked",
+      "can an electrician with authorization for one task perform another"
+    ]
+  },
+  {
+    "question": "May a contractor use their own PPE on site?",
+    "answer": "Contractor-provided and personally owned PPE must meet the same applicable selection, conformity, acceptance and product-standard requirements as Maaden-provided PPE.",
+    "refs": [
+      "3.31.21"
+    ],
+    "variants": [
+      "are personal safety glasses allowed on site",
+      "does contractor PPE need Maaden-equivalent acceptance",
+      "what standards apply to personally owned protective equipment"
+    ]
+  },
+  {
+    "question": "Can workers share PPE between shifts?",
+    "answer": "Assign PPE individually when hygiene, fit, traceability or manufacturer requirements prohibit sharing. Where sharing is permitted, clean, disinfect, inspect and control it before reissue, as applicable.",
+    "refs": [
+      "3.31.24"
+    ],
+    "variants": [
+      "can shared PPE be handed to the next shift",
+      "when does PPE have to be individually assigned",
+      "how must shared protective equipment be managed before reissue"
+    ]
+  },
+  {
+    "question": "What should I do with damaged or expired PPE?",
+    "answer": "Inspect PPE before use and at defined intervals appropriate to the equipment and exposure. Remove damaged, defective, contaminated, expired, recalled or ineffective items from service and prevent unintended use. Arrange the applicable repair, replacement or disposal.",
+    "refs": [
+      "3.31.31",
+      "3.31.35"
+    ],
+    "variants": [
+      "can I keep wearing expired PPE",
+      "what if protective equipment is defective or contaminated",
+      "what happens to recalled personal protective equipment"
+    ]
+  },
+  {
+    "question": "What if one item of PPE interferes with another?",
+    "answer": "Assess combined hazards and any incompatibility between the required items. Before and during the work, verify that the required PPE is available, suited to the hazard, exposure, task and wearer, properly fitted, serviceable and correctly used.",
+    "refs": [
+      "3.31.9",
+      "3.31.37"
+    ],
+    "variants": [
+      "what if my respirator and other PPE do not fit together",
+      "must PPE compatibility be assessed",
+      "what if two required items of protective equipment conflict"
+    ]
+  },
+  {
+    "question": "Can we use a homemade tool or modify a tool guard?",
+    "answer": "Homemade tools and unauthorized modifications to tools, accessories, attachments, guards, controls or safety devices are prohibited.",
+    "refs": [
+      "3.32.3"
+    ],
+    "variants": [
+      "can I bring a homemade workshop tool",
+      "are makeshift hand tools allowed",
+      "may I alter a grinder guard without authorization"
+    ]
+  },
+  {
+    "question": "What happens if a hand or power tool fails inspection?",
+    "answer": "Remove it from service and prevent unintended use. Before returning it, complete the required repair and confirm safety through the necessary inspection, testing or recertification. Tools and accessories need pre-use and periodic checks.",
+    "refs": [
+      "3.32.5",
+      "3.32.9"
+    ],
+    "variants": [
+      "can a damaged power tool go back into use",
+      "what do I do if a hand tool is defective",
+      "what inspection is required before returning a repaired tool"
+    ]
+  },
+  {
+    "question": "How do I check whether a cutting disc is suitable for a grinder?",
+    "answer": "Check compatibility with the tool and the rating for the intended application. The accessory must be mounted correctly, guarded and used within the manufacturer's operating limits. The same requirements apply to abrasive wheels, wire wheels and other rotating accessories.",
+    "refs": [
+      "3.32.11"
+    ],
+    "variants": [
+      "can I fit any cutting disc to a grinder",
+      "what ratings matter when selecting a grinding wheel",
+      "how do I select a compatible wire wheel"
+    ]
+  },
+  {
+    "question": "What must be done before changing a power-tool accessory or clearing a jam?",
+    "answer": "Disconnect the energy source. Where hazardous energy could cause harm, isolate, depressurize or otherwise make the tool safe. Restore any affected guards, controls, accessories and safety features correctly before operating the tool.",
+    "refs": [
+      "3.32.14",
+      "3.32.15"
+    ],
+    "variants": [
+      "do I disconnect a tool before changing a blade",
+      "what before clearing a blocked power tool",
+      "can a tool restart before its guard is restored"
+    ]
+  },
+  {
+    "question": "Can a push stick replace a machine guard?",
+    "answer": "No. Feeding, material-removal and hand tools can supplement required safeguards. Do not operate machinery if a required guard, interlock, emergency stop or protective device is missing, damaged, bypassed, defeated or ineffective.",
+    "refs": [
+      "3.33.10",
+      "3.33.22"
+    ],
+    "variants": [
+      "can a feed tool substitute for machine safeguarding",
+      "can we run machinery with a missing guard if a push stick is used",
+      "is a push tool sufficient without the required guard"
+    ]
+  },
+  {
+    "question": "When is an interlocked machine guard needed?",
+    "answer": "Use a fixed guard where normal operation does not require access and an interlocked guard where it does. Opening, removing or displacing the interlocked guard must stop or prevent the hazardous function. Add guard locking where the hazard could still be present when someone reaches the danger zone.",
+    "refs": [
+      "3.33.11",
+      "3.33.18"
+    ],
+    "variants": [
+      "fixed guard or interlocked guard when is each required",
+      "must an interlocked guard stop hazardous motion",
+      "when does the machine guard need guard locking"
+    ]
+  },
+  {
+    "question": "Can a machine restart automatically when power returns?",
+    "answer": "Resuming hazardous operation after power restoration, a control reset, guard closure or restoration of a protective device requires a deliberate start command. Automatic restart is an exception only when necessary and demonstrated safe through a documented risk assessment.",
+    "refs": [
+      "3.33.16"
+    ],
+    "variants": [
+      "may equipment restart after a power cut",
+      "can closing a guard restart hazardous operation",
+      "is automatic machine restart allowed after reset"
+    ]
+  },
+  {
+    "question": "What must happen before removing a machine guard or reaching into a danger zone?",
+    "answer": "Isolate hazardous motion and energy, and control stored energy under process 3.23 before the guard is removed or any part of the body enters the danger zone or line of fire.",
+    "refs": [
+      "3.33.23"
+    ],
+    "variants": [
+      "can I reach into a stopped machine to clear a jam",
+      "what isolation before removing a guard",
+      "how must stored energy be controlled before entering a machine danger zone"
+    ]
+  },
+  {
+    "question": "What if the excavation crew finds an unexpected or damaged service?",
+    "answer": "Stop work, make the area safe and notify the applicable responsible parties before work resumes. This applies if a service is unidentified, in the wrong location or damaged.",
+    "refs": [
+      "3.34.9"
+    ],
+    "variants": [
+      "what if we uncover an unmarked utility",
+      "what if the underground service is not where the drawing shows",
+      "what do we do if a service is damaged during digging"
+    ]
+  },
+  {
+    "question": "When does a trench need a ladder or another way out?",
+    "answer": "At a depth of 1.22 metres or more, provide a stairway, ladder, ramp or other safe means of egress. Position it so lateral travel to an exit is no more than 7.62 metres.",
+    "refs": [
+      "3.34.22"
+    ],
+    "variants": [
+      "maximum distance to a trench ladder",
+      "how deep before trench egress is required",
+      "how far can a worker travel sideways to exit a trench"
+    ]
+  },
+  {
+    "question": "At what depth does an excavation come under the confined space process?",
+    "answer": "Apply process 3.25 Confined Space Entry to excavations deeper than 1.2 metres. Before personnel enter any excavation, assess for hazardous atmospheres, confined space conditions as well as water ingress, flooding, process releases and restrictions on emergency access or escape.",
+    "refs": [
+      "3.34.28",
+      "3.34.30"
+    ],
+    "variants": [
+      "does a trench deeper than 1.2 m require confined space controls",
+      "when does excavation need the confined space entry process",
+      "what is the confined space depth threshold for excavation"
+    ]
+  },
+  {
+    "question": "When must an Excavation Competent Person inspect a trench?",
+    "answer": "Before each shift and after events or changes that could increase risk. Inspect the excavation, adjacent areas, protective systems, access, services, spoil and required controls. If an unsafe condition is found, stop work and remove exposed personnel until it is corrected and controls are reverified.",
+    "refs": [
+      "3.34.33",
+      "3.34.34"
+    ],
+    "variants": [
+      "who inspects the excavation before each shift",
+      "when should a trench be inspected again after a change",
+      "what if the excavation inspection finds an unsafe condition"
+    ]
+  },
+  {
+    "question": "Who checks ground conditions before mine work begins?",
+    "answer": "Designated competent personnel examine the ground before work begins, after blasting, and whenever conditions change or indicate increased risk. The Ground Control Management Plan sets any additional inspection frequency according to risk and applicable regulatory requirements.",
+    "refs": [
+      "3.35.24"
+    ],
+    "variants": [
+      "Who checks the ground after blasting?",
+      "When does mine ground need another examination?",
+      "How often must ground conditions be examined?"
+    ]
+  },
+  {
+    "question": "Can we travel through an area with unstable ground or damaged support?",
+    "answer": "Restrict access to potentially unstable ground and use warnings or barricades until the hazard is controlled. The ground must be made safe before work or travel. If damaged or ineffective support could create a hazard, repair or replace it before work or travel resumes.",
+    "refs": [
+      "3.35.29",
+      "3.35.30"
+    ],
+    "variants": [
+      "Can crews travel under damaged ground support?",
+      "What if underground support is loose or damaged?",
+      "When can we use a route through unstable ground?"
+    ]
+  },
+  {
+    "question": "Who reviews a high-risk or complex ground-control design?",
+    "answer": "A person independent of the original design must carry out a technical review. The extent of review depends on the design’s risk and complexity.",
+    "refs": [
+      "3.35.14"
+    ],
+    "variants": [
+      "Does a complex geotechnical design need independent review?",
+      "Can the designer independently review their own high-risk mine design?",
+      "Which ground control designs need independent technical review?"
+    ]
+  },
+  {
+    "question": "What happens if required underground ventilation fails?",
+    "answer": "Depending on the failure, the response includes shutting down equipment, stopping work, restricting access or withdrawing personnel until safe conditions are restored and verified. If the atmosphere exceeds safe limits, withdraw personnel and restrict access. The exception is controlled entry specifically authorized for emergency response or recovery.",
+    "refs": [
+      "3.36.10",
+      "3.36.13"
+    ],
+    "variants": [
+      "What if an underground ventilation fan failure affects our work?",
+      "Can underground work continue when required ventilation is lost?",
+      "What should happen if the mine atmosphere exceeds safe limits?"
+    ]
+  },
+  {
+    "question": "What self-rescue device and training do people going underground need?",
+    "answer": "Everyone required to go underground must receive an approved self-rescue device suited to the identified emergency hazards, with a rated duration of at least one hour. Train personnel before underground work and at least annually thereafter on mine emergency actions and the device’s location, limitations and correct use.",
+    "refs": [
+      "3.36.30",
+      "3.36.31"
+    ],
+    "variants": [
+      "How often do underground crews need self-rescuer training?",
+      "What is the minimum rated duration for an underground self-rescue device?",
+      "Do all personnel going underground need a self-rescuer?"
+    ]
+  },
+  {
+    "question": "Who can authorize underground re-entry after an emergency?",
+    "answer": "Competent personnel must assess the affected area and verify it is safe for the intended activity. They must confirm required controls, monitoring, communications and emergency arrangements are available, then authorize entry under the applicable Trigger Action Response Plans and emergency-response arrangements.",
+    "refs": [
+      "3.36.35"
+    ],
+    "variants": [
+      "Can we return underground once smoke has cleared?",
+      "What must be verified before entering a mine area after ventilation failure?",
+      "Who clears an underground area for re-entry after a fire?"
+    ]
+  },
+  {
+    "question": "Can we fit a tire and rim together if they look the same size?",
+    "answer": "Use only tire, wheel, rim and associated components confirmed as compatible by current original equipment manufacturer or manufacturer matching information.",
+    "refs": [
+      "3.37.7"
+    ],
+    "variants": [
+      "How do we verify a tire matches its rim?",
+      "Which information confirms wheel and rim compatibility?",
+      "Can a similar-looking rim be fitted to a tire?"
+    ]
+  },
+  {
+    "question": "What should we do with a suspect wheel or rim awaiting inspection?",
+    "answer": "Clearly identify the component and segregate it where practicable. Prevent its use until its serviceability is determined. This also applies to damaged, defective or otherwise unapproved tires, wheels, rims and associated components.",
+    "refs": [
+      "3.37.13"
+    ],
+    "variants": [
+      "Where should a suspect tire be kept?",
+      "Can a damaged wheel remain available for use?",
+      "How are unapproved rims controlled?"
+    ]
+  },
+  {
+    "question": "May we approach a haul-truck tire after overheating or lightning exposure?",
+    "answer": "Stop and isolate the affected equipment. Establish an exclusion zone and a restricted approach period using documented manufacturer and emergency-response criteria. Keep clear of the assembly and defer moving, deflating or servicing it until those criteria are met and an authorized competent person confirms that work may proceed. Emergency responders follow the approved response plan.",
+    "refs": [
+      "3.37.30",
+      "3.37.31"
+    ],
+    "variants": [
+      "How soon can we inspect an overheated tire?",
+      "What do we do with a tire after electrical contact?",
+      "Who releases a heat-affected tire for servicing?"
+    ]
+  },
+  {
+    "question": "Does a contractor’s blasting experience alone authorize them to do the work?",
+    "answer": "People carrying out explosives or blasting activities must be competent, authorized and appropriately licensed. The Business Unit or Corporate Function appoints an authorized blaster for each blast.",
+    "refs": [
+      "3.38.2"
+    ],
+    "variants": [
+      "Who may carry out blasting activities?",
+      "What authorization do blasting personnel need?",
+      "Is experience enough to undertake blasting work?"
+    ]
+  },
+  {
+    "question": "What must be done if an explosives stock count has a discrepancy?",
+    "answer": "Report any loss, discrepancy or security breach under the applicable authority requirements. The Business Unit or Corporate Function must maintain a traceable inventory and reconcile each issue and return.",
+    "refs": [
+      "3.38.12"
+    ],
+    "variants": [
+      "Do we report missing explosives inventory?",
+      "How are explosives stock discrepancies handled?",
+      "What should happen if explosives cannot be accounted for?"
+    ]
+  },
+  {
+    "question": "What if a fire reaches explosives or ammonium nitrate?",
+    "answer": "Evacuate the area immediately and do not attempt to fight the fire. This applies both when the fire has reached the material and when it cannot be prevented from reaching it.",
+    "refs": [
+      "3.38.27"
+    ],
+    "variants": [
+      "Should a crew fight a fire that has reached explosive materials?",
+      "When must a fire near ammonium nitrate trigger immediate evacuation?",
+      "What if fire will reach explosives and cannot be stopped?"
+    ]
+  },
+  {
+    "question": "When should the drill pad and access road be checked?",
+    "answer": "Inspect the access roads and drill pads and verify they are safe and fit for purpose before drilling equipment is mobilized or operations start.",
+    "refs": [
+      "3.39.15"
+    ],
+    "variants": [
+      "Can we mobilize the drill rig before checking the pad?",
+      "When do we verify roads for drilling equipment?",
+      "What access checks come before drill rig mobilization?"
+    ]
+  },
+  {
+    "question": "Can a drill rig restart as soon as power returns?",
+    "answer": "Place drilling controls in a safe or neutral condition and secure the equipment against unintended movement before restoring power. Resume drilling only after safe conditions and the required controls have been verified.",
+    "refs": [
+      "3.39.22"
+    ],
+    "variants": [
+      "What happens to drilling controls after a power loss?",
+      "When can drilling resume following loss of control energy?",
+      "May the drilling crew immediately restart after a power cut?"
+    ]
+  },
+  {
+    "question": "What does a drilling crew need to do at the start of each shift?",
+    "answer": "Complete pre-start inspections and a work-team briefing before each shift. If hazards, conditions or controls change, inform the affected people before work continues.",
+    "refs": [
+      "3.39.25"
+    ],
+    "variants": [
+      "When do drill crews hold their pre-start briefing?",
+      "How often are drilling pre-start inspections needed?",
+      "Does a new drilling shift need another pre-start check?"
+    ]
+  },
+  {
+    "question": "When can a remote field crew start work?",
+    "answer": "Field work can begin only after a documented readiness review confirms that the safety-critical requirements are complete.",
+    "refs": [
+      "3.40.5"
+    ],
+    "variants": [
+      "Is a readiness review needed before exploration fieldwork?",
+      "What authorizes the start of remote field work from a readiness perspective?",
+      "What needs to be recorded before starting fieldwork?"
+    ]
+  },
+  {
+    "question": "Can remote fieldwork continue if communications or emergency support fail?",
+    "answer": "Remote activities must stop, or their start must be deferred, when communication systems, emergency response capability or required critical controls are unavailable or ineffective. Before deploying people, verify that primary and backup communication systems are available and maintained.",
+    "refs": [
+      "3.40.12",
+      "3.40.14"
+    ],
+    "variants": [
+      "Can an exploration crew work without effective communications?",
+      "What if emergency response cover is unavailable at a remote field site?",
+      "What backup communication provision is needed before remote deployment?"
+    ]
+  },
+  {
+    "question": "Can a remote journey change route after departure?",
+    "answer": "The journey requires authorization before departure. Before continuing on a changed journey, reassess the change, communicate it and obtain renewed authorization.",
+    "refs": [
+      "3.40.16"
+    ],
+    "variants": [
+      "Can we divert from an approved exploration route?",
+      "Does a change to a remote journey need reauthorization?",
+      "What happens when a field crew changes its planned journey?"
+    ]
+  },
+  {
+    "question": "What should we check before charge material enters molten metal?",
+    "answer": "Check the material against the defined acceptance criteria for dryness, compatibility and contamination. Check for closed, hollow, sealed or enclosed items that could hold moisture, liquid, gas or pressure. The material must meet the criteria before it is introduced.",
+    "refs": [
+      "3.41.14"
+    ],
+    "variants": [
+      "Can wet or sealed items be charged into molten metal?",
+      "Which checks apply to furnace charge materials?",
+      "What acceptance criteria apply to scrap for molten metal?"
+    ]
+  },
+  {
+    "question": "What must be checked before a tool or mold touches molten metal?",
+    "answer": "Check the tool, mold, sampling device or other contact surface against its defined requirements for dryness, cleanliness, compatibility, condition, temperature and preparation before use.",
+    "refs": [
+      "3.41.16"
+    ],
+    "variants": [
+      "What condition must a molten metal sampling tool be in?",
+      "Must we check a mold before molten metal contact?",
+      "What are the checks for tools going into molten metal?"
+    ]
+  },
+  {
+    "question": "Who may enter a molten metal exposure zone?",
+    "answer": "Access is restricted to authorized people whose presence is required. Both conditions apply to entering the zone and remaining there.",
+    "refs": [
+      "3.41.19"
+    ],
+    "variants": [
+      "Can an authorized observer stay in the molten metal exposure zone if not needed?",
+      "Who can stand in a molten metal exposure area?",
+      "Is authorization enough for entry to a molten metal exposure zone?"
+    ]
+  },
+  {
+    "question": "How do we assess an unfamiliar laboratory sample?",
+    "answer": "Until its hazards are characterized, base controls on the sample’s credible worst-case properties. Work involving new materials, new methods, non-routine activities or significantly changed conditions can proceed only after the associated hazards and controls have been evaluated.",
+    "refs": [
+      "3.42.4",
+      "3.42.5"
+    ],
+    "variants": [
+      "What controls apply to a lab sample with uncertain composition?",
+      "Can we start a new lab method before assessing its hazards?",
+      "How should a laboratory assess material with an unknown hazard?"
+    ]
+  },
+  {
+    "question": "Can a laboratory test be left running unattended overnight?",
+    "answer": "Unattended or after-hours work needs assessment and authorization. Put arrangements in place for monitoring, responding to abnormal conditions and safe shutdown.",
+    "refs": [
+      "3.42.9"
+    ],
+    "variants": [
+      "What approval is needed to leave a lab experiment overnight?",
+      "May laboratory equipment run unattended after hours?",
+      "How should unattended laboratory work be managed?"
+    ]
+  },
+  {
+    "question": "Can laboratory work continue with a deficient required control?",
+    "answer": "Correct the deficiency before the affected activity continues, unless authorized interim controls reduce the risk to an acceptable level.",
+    "refs": [
+      "3.42.22"
+    ],
+    "variants": [
+      "What if a required lab control stops working?",
+      "When may interim controls be used for a laboratory deficiency?",
+      "Do we have to stop lab work when a required control is defective?"
+    ]
+  },
+  {
+    "question": "What must we verify before a dangerous-goods transfer starts?",
+    "answer": "Verify the material identity, receiving containment, available capacity, connections, compatibility and applicable protective systems. Depending on the transfer, these systems may include overfill prevention, isolation, emergency shutdown, ignition control, bonding, earthing and vapor control.",
+    "refs": [
+      "3.43.16"
+    ],
+    "variants": [
+      "What do I verify before unloading dangerous goods into a tank?",
+      "Which receiving checks are required before a materials transfer?",
+      "Does receiving capacity need checking before dangerous-goods transfer?"
+    ]
+  },
+  {
+    "question": "What should a receiver check before accepting a dangerous-goods shipment?",
+    "answer": "Verify shipment identity and condition. Look for leakage, damage, tampering or discrepancies before accepting custody. Rejected, returned or undeliverable shipments must remain under controlled custody until managed through an authorized arrangement.",
+    "refs": [
+      "3.43.20",
+      "3.43.21"
+    ],
+    "variants": [
+      "Can I accept a damaged dangerous-goods delivery without checking?",
+      "Who has custody of a rejected dangerous-goods shipment?",
+      "What condition checks come before accepting a regulated delivery?"
+    ]
+  },
+  {
+    "question": "Who can transport waste and where can they take it?",
+    "answer": "Classify the waste before transport. Use only authorized transporters and authorized receiving facilities, with the required approvals, compatible containment, placarding, tracking and documents. Record each custody transfer and final receipt. If delivery fails or the load is rejected, keep it under controlled custody.",
+    "refs": [
+      "3.43.24"
+    ],
+    "variants": [
+      "Can our waste be hauled to any disposal site?",
+      "What documentation and tracking are needed when shipping waste?",
+      "What if a waste shipment is rejected at its destination?"
+    ]
+  },
+  {
+    "question": "Can personnel occupy a newly delivered portable site cabin immediately?",
+    "answer": "Before occupancy, assess and authorize its location, stability, anchoring, weather resistance, fire and electrical safety, ventilation, capacity, access and exits. Apply the relevant codes, manufacturer requirements and site hazards. The requirement also covers temporary buildings and occupied tents.",
+    "refs": [
+      "3.44.9"
+    ],
+    "variants": [
+      "What checks are needed before a site cabin is occupied?",
+      "Do temporary tents need an occupancy assessment?",
+      "Who can move into a portable building before it is authorized?"
+    ]
+  },
+  {
+    "question": "Can a building evacuation route be used for temporary storage?",
+    "answer": "Keep escape routes and emergency exits unobstructed, clearly marked, illuminated and serviceable. Routes must be sufficient for the approved occupancy and meet applicable codes. For mining operations, apply the specified MSHA requirements where Maaden requires them.",
+    "refs": [
+      "3.44.13"
+    ],
+    "variants": [
+      "May we leave materials in front of a building emergency exit?",
+      "What condition must a building escape route be kept in?",
+      "What does MSHEM say about blocked evacuation routes?"
+    ]
+  },
+  {
+    "question": "Who clears a building after damage may have made it unsafe?",
+    "answer": "Evacuate, isolate or restrict occupancy of the affected area or building if structural integrity, fire safety or life safety may be compromised. A qualified person authorized by the responsible owner must confirm it is safe. Risk assess, control, track and correct the deficiency.",
+    "refs": [
+      "3.44.21"
+    ],
+    "variants": [
+      "Can workers re-enter a building with possible structural damage?",
+      "What if damage compromises a building's fire safety?",
+      "Who confirms a damaged building is safe for occupancy?"
+    ]
+  },
+  {
+    "question": "Where do warehouse staff find the permitted rack or floor load?",
+    "answer": "Capacities and configuration restrictions for storage systems, floors and mezzanines must be displayed or readily available at the point of use. Keep loads and configurations within those limits.",
+    "refs": [
+      "3.45.9"
+    ],
+    "variants": [
+      "Do warehouse rack load limits have to be visible?",
+      "Where can I check the warehouse mezzanine weight limit?",
+      "Can stored goods exceed a rack's stated capacity?"
+    ]
+  },
+  {
+    "question": "What do we do if a forklift hits a storage rack?",
+    "answer": "If damage could affect load stability or structural integrity, have a competent person assess it. Unload and restrict the affected area according to risk. Return the rack to service only after repair, replacement or confirmation that it is safe for the intended use.",
+    "refs": [
+      "3.45.10"
+    ],
+    "variants": [
+      "Can a damaged warehouse rack be loaded again?",
+      "Who assesses racking struck by a forklift?",
+      "What should we do after a lift truck damages warehouse shelving?"
+    ]
+  },
+  {
+    "question": "Can the warehouse put away an unstable or leaking pallet?",
+    "answer": "Inspect materials and unit loads for damage, leakage, contamination, incorrect or missing identification, instability and other unsafe conditions before accepting or putting them away. Segregate and control unsafe loads until assessed and their disposition is authorized.",
+    "refs": [
+      "3.45.13"
+    ],
+    "variants": [
+      "What if an incoming warehouse pallet has missing labels?",
+      "Can I accept damaged packaging into warehouse storage?",
+      "How do we control a leaking or unstable load in the warehouse?"
+    ]
+  },
+  {
+    "question": "Can incomplete process safety information be used for design or operation?",
+    "answer": "The facility or project must obtain, develop or reconstruct sufficient information and have competent people technically validate it before it is used for design, operation or other process safety activities.",
+    "refs": [
+      "3.46.6"
+    ],
+    "variants": [
+      "What if required PSI is missing?",
+      "Can design proceed using unvalidated process safety information?",
+      "Who validates reconstructed process safety information?"
+    ]
+  },
+  {
+    "question": "How long must process safety information be kept?",
+    "answer": "Keep it for the operating life of the facility and longer whenever applicable law, regulations or permit requirements specify a longer period.",
+    "refs": [
+      "3.46.2"
+    ],
+    "variants": [
+      "Can a plant discard old PSI while the facility is operating?",
+      "What is the retention period for process safety information?",
+      "How long do we retain PSI records?"
+    ]
+  },
+  {
+    "question": "Who needs access to current process safety information?",
+    "answer": "Authorized personnel who need the information for their assigned responsibilities must be able to access the current information in a usable form.",
+    "refs": [
+      "3.46.12"
+    ],
+    "variants": [
+      "Should current PSI be available to authorized operators?",
+      "How should process safety information be made available?",
+      "Which personnel require access to PSI?"
+    ]
+  },
+  {
+    "question": "Can a process hazard analysis start while required information is outstanding?",
+    "answer": "Start the study only after verifying that the required Process Safety Information is current, complete and available to the assessment team under process 3.46.",
+    "refs": [
+      "3.47.7"
+    ],
+    "variants": [
+      "Does a HAZOP team need complete PSI before starting the study?",
+      "Can a PHA begin with missing safety information?",
+      "What must be verified before the process hazard study begins?"
+    ]
+  },
+  {
+    "question": "How often must a process hazard analysis be revalidated?",
+    "answer": "Revalidate each covered process at least every five years. Management of change, root cause analyses, audit findings or applicable regulations may require a shorter interval. Complete a new or updated analysis when a change introduces new hazards or significantly modifies existing risk.",
+    "refs": [
+      "3.47.35",
+      "3.47.37"
+    ],
+    "variants": [
+      "Does a PHA expire after five years?",
+      "Can a process change trigger a PHA before the five-year review?",
+      "What is the minimum frequency for PHA revalidation?"
+    ]
+  },
+  {
+    "question": "Who should be on a process hazard analysis team?",
+    "answer": "Use a multidisciplinary team with knowledge of operations, engineering, maintenance, process safety, instrumentation and controls, safety and emergency response.",
+    "refs": [
+      "3.47.38"
+    ],
+    "variants": [
+      "Which disciplines must participate in a PHA?",
+      "Can an engineering-only team cover the process hazard assessment?",
+      "What expertise does a PHA team need?"
+    ]
+  },
+  {
+    "question": "Which operating procedures need a documented checklist?",
+    "answer": "Procedures for start-up, shutdown and EHSS Critical SOPs need a documented checklist. It must specify the sequence of actions needed to operate the equipment or unit safely and under control.",
+    "refs": [
+      "3.48.10"
+    ],
+    "variants": [
+      "Do startup and shutdown SOPs need checklists?",
+      "Are checklists required for EHSS Critical SOPs?",
+      "What should the checklist for a startup procedure specify?"
+    ]
+  },
+  {
+    "question": "Can a crew depart from an EHSS Critical Operating Procedure?",
+    "answer": "A proposed deviation must be assessed and authorized through the applicable risk management and management of change processes.",
+    "refs": [
+      "3.48.14"
+    ],
+    "variants": [
+      "Who needs to assess a deviation from a critical SOP?",
+      "Can I deviate from a critical operating procedure on my own?",
+      "How do we manage a proposed change from an EHSS critical SOP?"
+    ]
+  },
+  {
+    "question": "How often must standard operating procedures be reviewed?",
+    "answer": "Review EHSS Critical Operating Procedures at least every three years and other SOPs at least every five years. Review earlier when operational changes, incidents, lessons learned, audit or assurance findings, risk assessment outcomes, regulatory changes or other relevant conditions trigger a review.",
+    "refs": [
+      "3.48.21"
+    ],
+    "variants": [
+      "Is the review frequency different for critical and other SOPs?",
+      "How long between reviews of an EHSS Critical Operating Procedure?",
+      "What can trigger an early SOP review?"
+    ]
+  },
+  {
+    "question": "Can a contractor perform maintenance independently after induction?",
+    "answer": "For work governed by a Standard Maintenance Procedure, personnel including contractors must be trained and assessed as competent before they work independently. They also need authorization where required.",
+    "refs": [
+      "3.49.24"
+    ],
+    "variants": [
+      "What competence is needed to work alone under an SMP?",
+      "Can a new contractor independently perform a maintenance task?",
+      "When does someone qualify to perform an SMP independently?"
+    ]
+  },
+  {
+    "question": "What if the maintenance procedure cannot be followed as written?",
+    "answer": "Stop the affected maintenance work for review. The same applies if the approved procedure does not cover the conditions encountered. Maintenance must follow the applicable approved Standard Maintenance Procedure.",
+    "refs": [
+      "3.49.25"
+    ],
+    "variants": [
+      "What should I do if the SMP does not match conditions on the job?",
+      "Can I improvise if a step in the maintenance procedure cannot be done?",
+      "When must maintenance stop for procedure review?"
+    ]
+  },
+  {
+    "question": "When does a temporary repair need management of change?",
+    "answer": "Use the applicable Management of Change and Asset Integrity processes when a temporary repair affects asset integrity, process safety, critical controls or regulatory compliance.",
+    "refs": [
+      "3.49.22"
+    ],
+    "variants": [
+      "Which processes apply to a temporary repair affecting a critical control?",
+      "Does a temporary repair affecting process safety need MOC?",
+      "How are temporary repairs that affect asset integrity governed?"
+    ]
+  },
+  {
+    "question": "Can I use a process hose that has passed its service life?",
+    "answer": "Remove the hose from service if it fails the inspection, test, condition or service-life criteria. Verify that a hose or flexible connection is fit for its service before use.",
+    "refs": [
+      "3.50.60"
+    ],
+    "variants": [
+      "can we use an expired chemical hose",
+      "hose has exceeded its service life",
+      "when must a utility hose be taken out of service"
+    ]
+  },
+  {
+    "question": "Can equipment keep running after an inspection finds an integrity defect?",
+    "answer": "Evaluate the finding before continuing if it could affect safe or reliable operation. Where it affects EHSS risk, continued operation requires a documented technical assessment and authorization under the EHSS Risk Management process.",
+    "refs": [
+      "3.50.62"
+    ],
+    "variants": [
+      "can we keep an asset running with an integrity defect",
+      "what approval is needed to operate with an asset integrity finding",
+      "inspection found a defect can we carry on operating"
+    ]
+  },
+  {
+    "question": "When must a maintenance deferment be approved?",
+    "answer": "Complete the scheduled inspection, test, calibration, monitoring or maintenance by its approved due date unless the deferment is approved before that date. Record approved deferments in the maintenance management system or equivalent, communicate them and monitor them to closure.",
+    "refs": [
+      "3.50.73",
+      "3.50.77"
+    ],
+    "variants": [
+      "can we approve a maintenance deferment after the due date",
+      "when do we need approval to defer an inspection",
+      "can a scheduled calibration be postponed"
+    ]
+  },
+  {
+    "question": "What must the Shift Supervisor check before authorizing a critical system bypass?",
+    "answer": "The Shift Supervisor must verify that the bypass authorization record and risk assessment are complete. If the assessed bypass risk is higher than the initial design risk, the bypass form also requires approval under the EHSS Risk Management process.",
+    "refs": [
+      "3.51.12",
+      "3.51.13"
+    ],
+    "variants": [
+      "what does a shift supervisor verify on a bypass request",
+      "who checks the bypass authorization record and risk assessment",
+      "what if assessed bypass risk exceeds design risk"
+    ]
+  },
+  {
+    "question": "What happens if process conditions change unexpectedly during an active bypass?",
+    "answer": "Evaluate the unexpected process conditions and escalate them under the applicable EHSS risk management requirements. Active bypasses also require periodic review to confirm they are still necessary, alternative controls remain effective and requirements are being met.",
+    "refs": [
+      "3.51.19",
+      "3.51.22"
+    ],
+    "variants": [
+      "unexpected process conditions while a critical system is bypassed",
+      "who should evaluate a change in conditions during a bypass",
+      "what do we review while a bypass is active"
+    ]
+  },
+  {
+    "question": "What do we record when an EHSS critical system returns to service?",
+    "answer": "Before restoration, the person responsible must verify that the system can perform its intended function. Record the reinstatement date and time, the name and signature of the person who reinstated it, and confirmation that the bypass was removed and the device is operational.",
+    "refs": [
+      "3.51.24",
+      "3.51.25"
+    ],
+    "variants": [
+      "what goes in a critical system bypass reinstatement record",
+      "who signs the return to service after a bypass",
+      "what is checked before restoring a bypassed critical system"
+    ]
+  },
+  {
+    "question": "How do we decide whether a proposed change needs management of change?",
+    "answer": "Screen the proposal against the defined criteria. Consider potential effects on EHSS risks, asset integrity, operational performance, emergency management and response, competency requirements and legal or regulatory compliance.",
+    "refs": [
+      "3.52.3"
+    ],
+    "variants": [
+      "does this proposed change need an MOC",
+      "what should the management of change screening consider",
+      "how do I screen a proposed modification"
+    ]
+  },
+  {
+    "question": "What must the team know before we implement an approved change?",
+    "answer": "Inform affected personnel about the relevant impacts. Update and communicate affected documents, procedures and processes, and provide the appropriate training before implementing the change.",
+    "refs": [
+      "3.52.8",
+      "3.52.9"
+    ],
+    "variants": [
+      "when should we train workers on a process change",
+      "do we update procedures before implementing a change",
+      "what must affected workers be told about an MOC"
+    ]
+  },
+  {
+    "question": "Can we close a management of change record with actions still open?",
+    "answer": "Close the change only when required actions have been completed or formally transferred to an approved action management process with an accountable owner and target completion dates. After implementation, verify that the intended outcome was achieved and affected risk controls remain effective. Scale that check to the risk.",
+    "refs": [
+      "3.52.30",
+      "3.52.31"
+    ],
+    "variants": [
+      "can we close the MOC with outstanding actions",
+      "how do we transfer open MOC actions at closure",
+      "what must be verified after implementing a change"
+    ]
+  },
+  {
+    "question": "When is a pre-startup safety review required before a restart?",
+    "answer": "Conduct a PSSR for initial startup or commissioning of new facilities and major capital projects, startup or restart after modifications subject to management of change, and restart after a major shutdown or turnaround where process conditions, equipment configuration or safeguards may have changed.",
+    "refs": [
+      "3.53.2"
+    ],
+    "variants": [
+      "does restarting after a turnaround require a PSSR",
+      "when is a pre startup safety review required",
+      "does a modification under MOC require a pre startup review"
+    ]
+  },
+  {
+    "question": "Who leads the pre-startup safety review and who signs the authorization?",
+    "answer": "The Area Manager or designated authority appoints a qualified PSSR Team Leader with relevant operational experience and technical competence. A competent multidisciplinary team performs the review. Before startup, the team documents the checklist review, supporting documents and the authorization form approved by the Area Manager and Director.",
+    "refs": [
+      "3.53.3",
+      "3.53.14",
+      "3.53.17"
+    ],
+    "variants": [
+      "who appoints the PSSR team leader",
+      "who approves the PSSR authorization form",
+      "who conducts the pre startup safety review"
+    ]
+  },
+  {
+    "question": "How do we handle deficiencies found during a pre-startup safety review?",
+    "answer": "Document, assess, classify and track every deficiency until resolved. Apply the BU or Corporate Function’s criteria to identify items that must be resolved before startup. Manage remaining items through defined post-startup action plans under EHSS Risk Management. Startup requires a completed, formally authorized PSSR.",
+    "refs": [
+      "3.53.18",
+      "3.53.19",
+      "3.53.4"
+    ],
+    "variants": [
+      "can a PSSR finding be resolved after startup",
+      "what do we do with open PSSR punch list items",
+      "which PSSR deficiencies block startup"
+    ]
+  },
+  {
+    "question": "How do we add or remove a blind from the operating blinds list?",
+    "answer": "Use the Management of Change process for additions or deletions affecting the blinds list for normal operation, shutdown or startup. The approved list is based on as-built piping and instrumentation diagrams and physical field verification. Show all installed blinds on those diagrams and keep them current throughout the asset lifecycle.",
+    "refs": [
+      "3.54.4",
+      "3.54.9"
+    ],
+    "variants": [
+      "do changes to the blinds list need an MOC",
+      "what if we need to add a blind to the shutdown list",
+      "where should an installed blind be shown"
+    ]
+  },
+  {
+    "question": "When do we verify carseal positions in the plant?",
+    "answer": "Before any startup activity, the pre-startup checklist must verify all carseal positions against the master list. The BU and Corporate Function must also verify the status of carseal valves and the blinds list quarterly, document the results and promptly address discrepancies.",
+    "refs": [
+      "3.54.19",
+      "3.54.20"
+    ],
+    "variants": [
+      "do we check car seals against the master list before startup",
+      "how often are carseal valves and the blinds list verified",
+      "when are car sealed valve positions checked"
+    ]
+  },
+  {
+    "question": "What if a blind or carseal has been changed without authorization?",
+    "answer": "Report the unauthorized removal, installation or alteration and investigate it under Incident Management and Stewardship. Track corrective actions arising from the incident to closure.",
+    "refs": [
+      "3.54.22",
+      "3.54.23"
+    ],
+    "variants": [
+      "how do I report an unauthorized carseal removal",
+      "someone altered a blind without approval",
+      "does an unauthorized car seal change require an investigation"
+    ]
+  },
+  {
+    "question": "Who may carry out the facility physical security risk assessment?",
+    "answer": "A qualified, SAIS-approved security consultant must carry out the assessment. A qualified, SAIS-approved security contractor must implement the physical security measures defined by the approved recommendations.",
+    "refs": [
+      "3.55.3"
+    ],
+    "variants": [
+      "who performs the physical security risk assessment",
+      "does a physical security risk consultant need SAIS approval",
+      "who implements approved physical security measures"
+    ]
+  },
+  {
+    "question": "How must we manage staff security ID cards?",
+    "answer": "Issue, protect, suspend, revoke and recover personal identification verification cards and other regulated security credentials in accordance with SEC-11 Personal Identification Verification Cards.",
+    "refs": [
+      "3.55.16"
+    ],
+    "variants": [
+      "what applies to issuing or recovering a security ID card",
+      "what governs revoking a personal identification verification card",
+      "how are regulated security credentials managed"
+    ]
+  },
+  {
+    "question": "What if a physical security measure at an industrial facility is impaired?",
+    "answer": "The BU or Corporate Function must assess the failure, deterioration or deviation and put corrective actions or compensating controls in place until the required protection is restored.",
+    "refs": [
+      "3.55.30"
+    ],
+    "variants": [
+      "what happens when a physical security control degrades",
+      "how must we handle a failed physical security measure",
+      "what do we do until physical security protection is restored"
+    ]
+  },
+  {
+    "question": "Who can enter a facility’s marine areas?",
+    "answer": "Restrict access to authorized personnel carrying out authorized activities.",
+    "refs": [
+      "3.56.9"
+    ],
+    "variants": [
+      "can any worker enter the marine area",
+      "who is permitted into marine areas",
+      "does work in a marine area need to be authorized"
+    ]
+  },
+  {
+    "question": "Who plans the response to marine security events?",
+    "answer": "The BU must establish and maintain response arrangements. It must also arrange coordination with the relevant government agencies when required by the applicable authority or by the security risk assessment outcomes.",
+    "refs": [
+      "3.56.10",
+      "3.56.11"
+    ],
+    "variants": [
+      "when must marine security coordinate with government agencies",
+      "who establishes the response arrangements for marine security incidents",
+      "what coordination is required for marine security events"
+    ]
+  },
+  {
+    "question": "How do we handle an impaired marine security measure?",
+    "answer": "The BU must assess the failure, impairment or deviation and implement corrective actions or compensating controls where required. It must maintain the marine security infrastructure, systems and protective measures so they can perform their intended function.",
+    "refs": [
+      "3.56.12",
+      "3.56.13"
+    ],
+    "variants": [
+      "what if a marine security system fails",
+      "who assesses a marine security impairment",
+      "how do we manage marine protective measures that are out of service"
+    ]
+  },
+  {
+    "question": "Can employees move into a newly modified residential compound?",
+    "answer": "Verify the required security controls against the approved design, SEC-19 and SAIS conditions before anyone occupies a new or modified compound.",
+    "refs": [
+      "3.57.10"
+    ],
+    "variants": [
+      "when can a new residential compound be occupied",
+      "what must be verified before moving into the modified camp",
+      "can people occupy a new employee compound before security verification"
+    ]
+  },
+  {
+    "question": "Do residential compound access controls cover deliveries and contractors?",
+    "answer": "Yes. The BU or Corporate Function must establish SEC-19 access arrangements for residents, employees, visitors, contractors and service providers, as well as vehicles and deliveries.",
+    "refs": [
+      "3.57.5"
+    ],
+    "variants": [
+      "who is covered by residential compound access arrangements",
+      "must residential camp deliveries be access controlled",
+      "do visitors need to follow residential compound access arrangements"
+    ]
+  },
+  {
+    "question": "What approval is needed when an industrial residential compound is modified?",
+    "answer": "Submit changes to an existing residential compound to SAIS where required and address any additional security conditions imposed by the authority. The same requirement applies to new compounds.",
+    "refs": [
+      "3.57.3"
+    ],
+    "variants": [
+      "do modifications to residential compounds need SAIS review",
+      "what if SAIS adds conditions to a new residential compound",
+      "who receives a new residential compound submission when required"
+    ]
+  },
+  {
+    "question": "How do we determine whether passive defense requirements apply to our industrial facility?",
+    "answer": "The BU or Corporate Function must assess SEC-21 applicability using the facility security classification, security risk assessment outcomes and SAIS requirements.",
+    "refs": [
+      "3.58.1"
+    ],
+    "variants": [
+      "does SEC-21 apply to this site",
+      "what determines passive defense applicability",
+      "how is passive defence applicability established for an industrial site"
+    ]
+  },
+  {
+    "question": "What should the responsible team do when a passive defense measure is impaired?",
+    "answer": "Assess the failure, impairment or deviation. Implement corrective actions or compensating controls where required to maintain the intended protective function.",
+    "refs": [
+      "3.58.10"
+    ],
+    "variants": [
+      "what is required if a passive defence measure fails",
+      "how are impairments to passive defense managed",
+      "what do we do about a deviation in passive defense"
+    ]
+  },
+  {
+    "question": "What evidence must we keep for passive defense compliance?",
+    "answer": "Keep documented evidence that demonstrates compliance with SEC-21. Submit required regulatory approvals, compliance documentation and completion records where SAIS requires them.",
+    "refs": [
+      "3.58.11",
+      "3.58.12"
+    ],
+    "variants": [
+      "what records demonstrate SEC-21 compliance",
+      "what passive defence compliance records does SAIS require us to submit",
+      "do we keep evidence for passive defense compliance"
+    ]
+  },
+  {
+    "question": "Who takes security responsibility when an area enters commissioning?",
+    "answer": "Formally transfer security responsibility for the area or facility entering commissioning to the operating security organization. The BU or Corporate Function must define and control the security responsibilities and interfaces throughout the project and operating lifecycle.",
+    "refs": [
+      "3.59.15",
+      "3.59.17"
+    ],
+    "variants": [
+      "who owns area security at commissioning handover",
+      "does commissioning require a formal security handover",
+      "who receives security responsibility before commissioning"
+    ]
+  },
+  {
+    "question": "When must a Facility Security Plan be updated?",
+    "answer": "Review and update the plan and security operating arrangements after changes to the security risk assessment, facility changes, security incidents or changes to applicable requirements. Manage changes that could affect the security posture, risk assessment or plan under Management of Change.",
+    "refs": [
+      "3.59.21",
+      "3.59.22"
+    ],
+    "variants": [
+      "what triggers a Facility Security Plan review",
+      "must the industrial Facility Security Plan be updated after an incident",
+      "what if a facility change affects the security plan"
+    ]
+  },
+  {
+    "question": "Can a worker report an industrial security incident without retaliation?",
+    "answer": "Yes. The BU or Corporate Function must enable reporting without retaliation. Security incidents must be investigated and addressed under Incident Management and Stewardship and the applicable SAIS requirements.",
+    "refs": [
+      "3.59.24"
+    ],
+    "variants": [
+      "can staff raise a security incident without retaliation",
+      "how are industrial security incidents investigated",
+      "does the incident management process apply to security incidents"
+    ]
+  },
+  {
+    "question": "What if essential security communications stop working?",
+    "answer": "The BU or Corporate Function must assess the failure or impairment and take corrective action or put compensating controls in place where needed to maintain essential communication capability.",
+    "refs": [
+      "3.60.15"
+    ],
+    "variants": [
+      "how should we handle a security communications outage",
+      "what if a security communications network is impaired",
+      "who assesses a security communication system failure"
+    ]
+  },
+  {
+    "question": "When do security communication systems need verification?",
+    "answer": "Verify coverage, capacity, connectivity, integration, cybersecurity and resilience before operational use and after a material modification.",
+    "refs": [
+      "3.60.16"
+    ],
+    "variants": [
+      "what must be checked before new security communications go live",
+      "do modified security communication systems need reverification",
+      "when is the security network checked for operational readiness"
+    ]
+  },
+  {
+    "question": "Who controls access to security communication systems and equipment?",
+    "answer": "The BU or Corporate Function must control authorized use, administration and access to security systems, networks, equipment, configurations and encryption credentials.",
+    "refs": [
+      "3.60.13"
+    ],
+    "variants": [
+      "who is responsible for authorized administration of security networks",
+      "who controls access to security network configurations",
+      "who manages authorized use of security communications equipment"
+    ]
+  },
+  {
+    "question": "How do we decide which security requirements apply to a non-industrial facility?",
+    "answer": "Identify non-industrial facilities under BU or Corporate Function control and determine which SEC-100, associated directives and SAIS requirements apply. Document the facility security classification and its basis. Use the classification, security risk assessment and applicable security and SAIS requirements to establish the facility requirements.",
+    "refs": [
+      "3.61.1",
+      "3.61.2",
+      "3.61.3"
+    ],
+    "variants": [
+      "how do we determine security requirements for non-industrial facilities",
+      "do we document the classification of a nonindustrial site",
+      "what is the basis for a non-industrial facility's security requirements"
+    ]
+  },
+  {
+    "question": "When must a non-industrial facility’s security risk assessment be updated?",
+    "answer": "Review and update it following material facility changes, operational changes, significant security incidents, significant changes in threat conditions or other circumstances that could affect the facility’s security posture.",
+    "refs": [
+      "3.61.5"
+    ],
+    "variants": [
+      "does a significant incident trigger a non-industrial security risk review",
+      "when do we review a non-industrial site security assessment",
+      "do operational changes require updating the security risk assessment at a nonindustrial facility"
+    ]
+  },
+  {
+    "question": "What actions are required if a security control fails at a non-industrial site?",
+    "answer": "The BU or Corporate Function must assess the failure, impairment or deviation from applicable security requirements. Implement corrective actions or compensating controls where required.",
+    "refs": [
+      "3.61.10"
+    ],
+    "variants": [
+      "how should a non-industrial facility manage an impaired security system",
+      "what happens when a nonindustrial site's security control fails",
+      "who assesses security deviations at a non-industrial site"
+    ]
+  },
+  {
+    "question": "What does MSHEM require each Business Unit to achieve?",
+    "answer": "MSHEM sets Maaden-wide minimum mandatory requirements, controls and outcomes for managing EHSS risks and meeting applicable obligations. Each Business Unit and Corporate Function implements them in a way that reflects its activities, risks and operating context.",
+    "refs": [
+      "1.1"
+    ],
+    "variants": [
+      "What is MSHEM for?",
+      "What is the purpose of MSHEM?",
+      "Does the corporate system set minimum requirements?"
+    ]
+  },
+  {
+    "question": "Who does MSHEM apply to?",
+    "answer": "It applies to businesses, sites, projects, functions and activities under Maaden's management or operational control, from exploration and construction through operation, closure and rehabilitation. Contractors and other parties working under Maaden's control must follow the requirements relevant to their work. Business Units and Corporate Functions implement the requirements through procedures, work instructions, plans and controls.",
+    "refs": [
+      "1.2"
+    ],
+    "variants": [
+      "Do contractors have to follow MSHEM?",
+      "Which operations are covered by MSHEM?",
+      "Does MSHEM apply during construction and closure?"
+    ]
+  },
+  {
+    "question": "How are the six Parts of MSHEM organized?",
+    "answer": "Part 1 explains the framework. Part 2 covers governance, risk and capability. Part 3 covers Environment, Health, Safety and Security, including Occupational Safety and Process Safety. Part 4 covers contractors and projects. Part 5 covers emergencies. Part 6 covers performance, assurance and improvement.",
+    "refs": [
+      "1.3"
+    ],
+    "variants": [
+      "Where do I find emergency management in the six Parts?",
+      "Which Part covers contractors and projects?",
+      "How do I navigate the Parts of MSHEM?"
+    ]
+  },
+  {
+    "question": "What has to be verified before a contractor mobilizes or starts work?",
+    "answer": "The contractor must wait until the applicable readiness process verifies the EHSS conditions for the work. These include competent and authorized people, required inductions, equipment readiness, work controls and authorizations, and emergency arrangements.",
+    "refs": [
+      "4.1.17",
+      "4.1.18"
+    ],
+    "variants": [
+      "Can a contractor mobilize before the readiness check?",
+      "What must be ready before contractors start on site?",
+      "Who checks contractor readiness before mobilization?"
+    ]
+  },
+  {
+    "question": "Who tells subcontractors about hazards and critical controls?",
+    "answer": "The Business Unit or Corporate Function gives the contractor the information it controls about relevant hazards, interfaces, emergency arrangements and critical controls. The contractor passes the necessary EHSS information to its people and subcontractors and enables them to participate in assessing risks and improving their controls.",
+    "refs": [
+      "4.1.20",
+      "4.1.24"
+    ],
+    "variants": [
+      "How do subcontractors learn about site hazards?",
+      "Whose job is it to brief subcontractors on EHSS?",
+      "Who provides emergency information to contractors?"
+    ]
+  },
+  {
+    "question": "How can a contractor worker raise a welfare or safety concern?",
+    "answer": "Contractor personnel must be able to use HEMAYA to report hazards, unsafe conditions, welfare concerns and EHSS nonconformities without retaliation. The Business Unit or Corporate Function must explain the reporting and escalation routes and track material concerns to verified closure.",
+    "refs": [
+      "4.1.25"
+    ],
+    "variants": [
+      "Can a contractor report an unsafe condition in HEMAYA?",
+      "Where do contract workers raise welfare concerns?",
+      "Can subcontracted workers report safety problems without retaliation?"
+    ]
+  },
+  {
+    "question": "When may suspended contractor work restart?",
+    "answer": "The cause must be assessed, required corrective actions and controls put in place, and affected people informed. Applicable authorizations and critical controls must be verified again before work resumes. During the suspension the contractor and Maaden remain responsible for maintaining applicable protections until the work is safe and responsibility is formally transferred or closed.",
+    "refs": [
+      "4.1.27",
+      "4.1.28",
+      "4.1.29"
+    ],
+    "variants": [
+      "How do we restart a contractor job after suspension?",
+      "What needs rechecking before a contractor resumes work?",
+      "Who keeps controls in place while contractor work is suspended?"
+    ]
+  },
+  {
+    "question": "What EHSS arrangements must a project define before its stage gates?",
+    "answer": "Keep an EHSS Management Plan or equivalent controlled arrangements that identify applicable requirements, responsibilities, deliverables, assurance activities and stage-gate criteria. The requirements and assurance activities must reflect the project EHSS risk profile. Identify and complete the studies and reviews that the risks and applicable requirements call for.",
+    "refs": [
+      "4.2.6",
+      "4.2.7",
+      "4.2.10"
+    ],
+    "variants": [
+      "What belongs in the project EHSS management plan?",
+      "Do all projects need the same EHSS studies?",
+      "What sets EHSS assurance for a project stage gate?"
+    ]
+  },
+  {
+    "question": "When should the future operations team get involved in a project?",
+    "answer": "Start operational readiness planning early enough for the receiving organization to influence design and establish the people, competence, procedures, maintenance and emergency arrangements needed for operation. During design, identify EHSS critical assets, critical controls and performance criteria and carry them into procurement, construction, commissioning and handover.",
+    "refs": [
+      "4.2.13",
+      "4.2.34"
+    ],
+    "variants": [
+      "When should operations influence the design?",
+      "How early does project operational readiness start?",
+      "When do we identify critical controls for project handover?"
+    ]
+  },
+  {
+    "question": "What EHSS checks come before project commissioning and startup?",
+    "answer": "Verify commissioning EHSS readiness before commissioning or introducing hazardous materials or energy. Complete a Pre-Startup Safety Review under process 3.53 before startup or introduction of those materials or energy. Before operation, verify required EHSS critical assets and operating arrangements against the approved design, performance, regulatory and readiness requirements.",
+    "refs": [
+      "4.2.35",
+      "4.2.36",
+      "4.2.37"
+    ],
+    "variants": [
+      "Can we introduce energy before the commissioning check?",
+      "Is a PSSR required before project startup?",
+      "What must a project verify before going into operation?"
+    ]
+  },
+  {
+    "question": "Can operations accept project handover with open EHSS actions?",
+    "answer": "Before handover the project and receiving organization must verify that applicable EHSS requirements, critical controls, safety-critical systems, approvals, procedures, competencies and outstanding actions are complete or covered by an approved controlled transfer. The receiving organization must understand and formally accept residual risks and open actions through the applicable governance arrangements.",
+    "refs": [
+      "4.2.38",
+      "4.2.39"
+    ],
+    "variants": [
+      "Who accepts open actions at operational handover?",
+      "Can a project transfer residual EHSS risks to operations?",
+      "What if an EHSS action is still open at handover?"
+    ]
+  },
+  {
+    "question": "What emergency information should a visitor or contractor receive on site?",
+    "answer": "Anyone at a Maaden-controlled workplace must receive instructions relevant to their expected emergency actions. These cover recognizing alarms, reporting an emergency, evacuating, assembling and sheltering. The instructions for the particular workplace provide the applicable arrangements.",
+    "refs": [
+      "5.1.33"
+    ],
+    "variants": [
+      "What should visitors know about a site alarm?",
+      "Are contractors briefed about muster and shelter?",
+      "What emergency instructions do people on site need?"
+    ]
+  },
+  {
+    "question": "When do we need a Pre-Incident Plan?",
+    "answer": "Prepare and maintain a Pre-Incident Plan for a prioritized credible scenario that needs scenario-specific tactics, resources, coordination or protective actions. Prioritize credible scenarios using the Maaden EHSS Risk Matrix, considering consequences, escalation, response complexity, the resources needed and available response capability.",
+    "refs": [
+      "5.1.12",
+      "5.1.16"
+    ],
+    "variants": [
+      "Does every emergency scenario need a pre-incident plan?",
+      "Which emergencies need a scenario-specific response plan?",
+      "How are scenarios chosen for pre-incident planning?"
+    ]
+  },
+  {
+    "question": "How many evacuation drills does a mine need each year?",
+    "answer": "Each mine must conduct at least two evacuation drills per year covering representative work areas and operating conditions. Include applicable mine-specific emergency arrangements in the exercise program. This is part of the annual risk-based drill and exercise program.",
+    "refs": [
+      "5.1.36",
+      "5.1.41"
+    ],
+    "variants": [
+      "What is the minimum number of mine evacuation drills?",
+      "Do mine evacuation exercises have to cover different work areas?",
+      "How often must a mine practise evacuation?"
+    ]
+  },
+  {
+    "question": "What should we record before and after an emergency drill?",
+    "answer": "Before the drill, document its objectives, scope, participants, performance criteria and how it will be evaluated. Afterwards, evaluate and document performance and findings. Communicate the corrective actions and lessons, track the actions to closure and use the results to improve emergency arrangements.",
+    "refs": [
+      "5.1.37",
+      "5.1.43"
+    ],
+    "variants": [
+      "How should an emergency drill be evaluated?",
+      "What goes in the exercise objectives before a drill?",
+      "What happens to findings after an emergency exercise?"
+    ]
+  },
+  {
+    "question": "How often must an Emergency Response Team member demonstrate practical competence?",
+    "answer": "Each ERT member must complete a documented practical competency evaluation at least annually. Maintain competence through refresher training, certification renewal and reassessment. Relevant changes, extended absence, an incident or exercise, an unsatisfactory assessment or an identified deficiency can trigger additional training or reassessment.",
+    "refs": [
+      "5.2.20"
+    ],
+    "variants": [
+      "How often is an ERT member practically assessed?",
+      "When is extra emergency team training required?",
+      "Does an ERT member need an annual practical assessment?"
+    ]
+  },
+  {
+    "question": "Does attending a real emergency count towards ERT training?",
+    "answer": "Each member must take part in at least four scenario-based ERT drills annually, covering scenarios relevant to the member's functions and the emergency capability assessment. An actual response can substitute for required training only if an approved equivalency exists and the member's performance is documented and assessed against the applicable competency requirements.",
+    "refs": [
+      "5.2.24"
+    ],
+    "variants": [
+      "Can a real incident replace an emergency team drill?",
+      "How many scenario drills does an ERT member need?",
+      "Can ERT response attendance count as required training?"
+    ]
+  },
+  {
+    "question": "What training applies to an underground mine emergency team?",
+    "answer": "Where an underground mine ERT capability is required, assigned members need at least 80 hours of mine-emergency training annually. Practical underground training is required at least once every six months and must include search, navigation and rescue under smoke or controlled smoke-equivalent conditions. The clause lists the full training content.",
+    "refs": [
+      "5.2.21"
+    ],
+    "variants": [
+      "How many hours of underground mine ERT training are required?",
+      "How often does the mine emergency team train underground?",
+      "Is six-monthly underground rescue practice required?"
+    ]
+  },
+  {
+    "question": "What happens if an emergency responder's required certification expires?",
+    "answer": "Suspend authorization for emergency-response duties when the member no longer meets the required certification, fitness, competency, qualification, participation or operational readiness requirements. Reinstate authorization only after the applicable requirements are met, supporting evidence is documented and formal clearance is obtained.",
+    "refs": [
+      "5.2.26"
+    ],
+    "variants": [
+      "May an ERT member respond with an expired certification?",
+      "When must emergency team authorization be suspended?",
+      "What is needed to reinstate an ERT responder?"
+    ]
+  },
+  {
+    "question": "May we use firewater for a non-emergency job?",
+    "answer": "Avoid non-emergency use of firewater, hydrants or fire hoses where practicable. If needed, document the justification, assess the risk, obtain authorization and record the required quantity and duration. Maintain the approved minimum fire service operating level needed for the design demand, duration and system performance. Manage any inability to maintain that capability as an interruption.",
+    "refs": [
+      "5.3.27"
+    ],
+    "variants": [
+      "Can we use a hydrant for a washdown?",
+      "What minimum firewater tank level applies to non-emergency use?",
+      "Do we need authorization to use a fire hose outside an emergency?"
+    ]
+  },
+  {
+    "question": "What if an emergency protection system unexpectedly goes out of service?",
+    "answer": "Assess the affected emergency capability, risks, duration and operating conditions. Implement compensating controls as soon as practicable and verify them during the interruption. Notify affected parties and any external responders or authorities whose arrangements or notification requirements are affected. Restrict, suspend or shut down the activity or facility if the required emergency capability cannot be maintained.",
+    "refs": [
+      "5.3.20",
+      "5.3.21",
+      "5.3.22",
+      "5.3.23",
+      "5.3.24"
+    ],
+    "variants": [
+      "What if our emergency system is unexpectedly unavailable?",
+      "Who needs to know about an emergency protection impairment?",
+      "Can operations continue if emergency capability is lost?"
+    ]
+  },
+  {
+    "question": "Can we reschedule an overdue test on emergency equipment?",
+    "answer": "Manage a missed or overdue inspection, test or maintenance activity through the applicable Asset Maintenance Deferment requirements. Identify the equipment and components, assess risk, define compensating controls and escalation, and assign an owner and completion date. Complete the work at the earliest practicable opportunity.",
+    "refs": [
+      "5.3.16"
+    ],
+    "variants": [
+      "What do we do about missed emergency equipment maintenance?",
+      "Can we postpone an emergency equipment inspection?",
+      "How do we handle an overdue test on emergency response equipment?"
+    ]
+  },
+  {
+    "question": "When can temporary controls be removed after repairs to emergency equipment?",
+    "answer": "Complete the corrective work and have competent, authorized personnel inspect and functionally test restoration against approved equipment-specific acceptance criteria. The designated authority must authorize return to service. Keep the equipment out of service and retain the compensating controls and operating restrictions if the acceptance criteria are unmet or restoration testing fails.",
+    "refs": [
+      "5.3.29",
+      "5.3.30",
+      "5.3.31",
+      "5.3.32"
+    ],
+    "variants": [
+      "Can an emergency system go back into service after a failed test?",
+      "Who approves restoration of emergency equipment?",
+      "When do compensating controls end after an impairment?"
+    ]
+  },
+  {
+    "question": "I witnessed an EHSS event. Where do I report it?",
+    "answer": "Employees, contractors and visitors must record EHSS events they witness or are involved in through HEMAYA. Report the event within the Business Unit, department, project or activity responsible for the affected work. For an occupational injury or illness, also report it to the designated medical and EHSS function.",
+    "refs": [
+      "6.1.1",
+      "6.1.3"
+    ],
+    "variants": [
+      "Do visitors have to report an EHSS event they see?",
+      "Where should I record a workplace injury?",
+      "If I see an incident who do I report it to?"
+    ]
+  },
+  {
+    "question": "What must a supervisor do about evidence immediately after an incident?",
+    "answer": "First ensure immediate actions protect people, the environment, assets and information. Use the applicable emergency arrangements if response or site control is needed. Once the incident is stabilized, identify, collect, preserve and protect relevant evidence, records and information from unauthorized alteration or removal. A confirmed employee or contractor fatality also triggers the specific scene-control requirements in 6.1.12.",
+    "refs": [
+      "6.1.9",
+      "6.1.10",
+      "6.1.11",
+      "6.1.12"
+    ],
+    "variants": [
+      "When do we preserve evidence at an incident scene?",
+      "What comes first after a workplace incident?",
+      "When may we begin collecting records after an incident?"
+    ]
+  },
+  {
+    "question": "Can a near miss qualify as a High Potential Incident?",
+    "answer": "Yes. Business Units assess credible worst-case consequences of incidents and near misses to identify HPIs. Consider at least the scenarios in Table 6.1-4. For the event category, use the most credible potential consequence to classify a near miss as Safety, Health, Environment, Security or Process Safety.",
+    "refs": [
+      "6.1.24",
+      "6.1.29",
+      "6.1.30"
+    ],
+    "variants": [
+      "Can an incident with no injury still be an HPI?",
+      "How do we identify a high-potential near miss?",
+      "Does a near miss need an HPI assessment?"
+    ]
+  },
+  {
+    "question": "What evidence is needed to close an incident investigation action?",
+    "answer": "Document that the corrective or preventive action was implemented, addressed the identified causes and control deficiencies, and was verified as effective. The appointing authority assigns each action to one accountable owner with a target date. Any proposed change to the recommendation, owner or date, or cancellation, needs documented justification and approval by that authority before the change.",
+    "refs": [
+      "6.1.47",
+      "6.1.48",
+      "6.1.49"
+    ],
+    "variants": [
+      "Is marking an incident action complete enough for closure?",
+      "Can we change the owner of an investigation action?",
+      "Who approves changes to an incident corrective action?"
+    ]
+  },
+  {
+    "question": "What if this month's EHSS performance figure is an estimate or is incomplete?",
+    "answer": "Correct invalid, missing, estimated or uncertain information where practicable. Otherwise identify the limitation clearly in the evaluation and communication, including its nature and effect. Verify the information before using or submitting it, with checks proportionate to its purpose and possible effect on decisions, compliance or scoring.",
+    "refs": [
+      "6.2.14",
+      "6.2.16"
+    ],
+    "variants": [
+      "Can I report an estimated KPI value?",
+      "What if performance data for a site is missing?",
+      "How should uncertain figures be shown in an EHSS report?"
+    ]
+  },
+  {
+    "question": "Which record should I use when two systems show different EHSS performance figures?",
+    "answer": "Where Maaden has designated a Corporate system, use it as the authoritative source. Support information from other sources with traceable evidence. Before use or submission, verify the source evidence, reporting scope and period, calculation method and scoring criteria as applicable.",
+    "refs": [
+      "6.2.13",
+      "6.2.14"
+    ],
+    "variants": [
+      "Can I use a spreadsheet instead of the corporate EHSS source?",
+      "How do I check conflicting KPI data?",
+      "Which system is authoritative for EHSS reporting?"
+    ]
+  },
+  {
+    "question": "Does an urgent issue found in performance monitoring wait for the monthly report?",
+    "answer": "Escalate it through the applicable MSHEM process immediately when it needs immediate operational control, investigation, notification or regulatory response. The periodic report or Management Review can follow.",
+    "refs": [
+      "6.2.23"
+    ],
+    "variants": [
+      "Can an urgent regulatory matter wait for the performance review?",
+      "What if a KPI review uncovers an immediate control issue?",
+      "When should performance monitoring trigger urgent escalation?"
+    ]
+  },
+  {
+    "question": "Who approves EHSS performance figures before Corporate reporting?",
+    "answer": "The Business Unit or Corporate Function EHSS VP must review and approve the verified information before final submission. Corporate EHSS then consolidates and validates it against Maaden reporting requirements and the EHSS KPI Bluebook, with technical functions supporting interpretation or scoring where needed. Resolve issues and have supporting evidence available before treating the figures as final.",
+    "refs": [
+      "6.2.25",
+      "6.2.26"
+    ],
+    "variants": [
+      "Who signs off the BU EHSS report?",
+      "When are corporate EHSS performance figures final?",
+      "Who validates the EHSS KPI submission?"
+    ]
+  },
+  {
+    "question": "What is the minimum three-year audit sequence for a Business Unit?",
+    "answer": "Each applicable BU completes a self-assessment in year one, an internal audit in year two and a Corporate Audit or qualifying independent third-party assessment in year three. The five-year audit and assurance program identifies each BU's place in the recurring cycle and maintains continuity across program periods.",
+    "refs": [
+      "6.3.6",
+      "6.3.7"
+    ],
+    "variants": [
+      "What audit happens in year two?",
+      "Can a third-party assessment count in year three?",
+      "How do three-year BU audit cycles fit the five-year assurance program?"
+    ]
+  },
+  {
+    "question": "What evidence should support an audit finding?",
+    "answer": "Use relevant, verifiable evidence and evaluate it against the approved audit criterion. Reference that criterion in the result. Acknowledge sampling limitations that affect confidence in the conclusion. Review the finding with the auditee for factual accuracy while protecting auditor independence.",
+    "refs": [
+      "6.3.17",
+      "6.3.19",
+      "6.3.20"
+    ],
+    "variants": [
+      "Does an audit finding need an MSHEM criterion?",
+      "How should auditors handle limitations from sampling?",
+      "Can the auditee check the facts in an audit finding?"
+    ]
+  },
+  {
+    "question": "Should an auditor wait for the final report to raise a critical control failure?",
+    "answer": "Promptly escalate and control significant critical control failures, material EHSS risks, and legal or regulatory non-compliance identified during an audit. Act when they are identified. The report can be completed afterwards.",
+    "refs": [
+      "6.3.18"
+    ],
+    "variants": [
+      "When must a significant audit finding be escalated?",
+      "Can a serious risk found during an audit wait?",
+      "What if an audit finds a major critical control failure?"
+    ]
+  },
+  {
+    "question": "Can an audit finding stay closed if the corrective action proved ineffective?",
+    "answer": "An ineffective action must remain open or be reopened. Close the finding only after actions have been implemented and verified. Match effectiveness checks and follow-up assurance to the significance and recurrence of the finding. The accountable auditee provides implementation evidence and escalates overdue, deferred or changed actions for authorization as appropriate.",
+    "refs": [
+      "6.3.22",
+      "6.3.23"
+    ],
+    "variants": [
+      "When should an audit action be reopened?",
+      "What evidence is needed to close an audit finding?",
+      "What if the same audit finding recurs after closure?"
+    ]
+  },
+  {
+    "question": "Does an EHSS issue have to wait for the next management review meeting?",
+    "answer": "The Business Unit or Corporate Function evaluates whether the issue needs action before the scheduled review and chooses the appropriate review, escalation or decision route. Escalate anything beyond the forum's authority to the management level that can decide it.",
+    "refs": [
+      "6.4.4",
+      "6.4.10"
+    ],
+    "variants": [
+      "Can an urgent issue go to management between review meetings?",
+      "What if the review forum cannot authorize a decision?",
+      "Who handles a management review issue outside its authority?"
+    ]
+  },
+  {
+    "question": "What decisions should come out of an EHSS management review?",
+    "answer": "Record decisions on corrective and improvement actions, priorities, MSHEM or implementation changes, resources, changes to objectives or plans, opportunities to integrate EHSS into business processes and matters for escalation. Communicate relevant decisions and directions to affected functions, workers and contractors.",
+    "refs": [
+      "6.4.9",
+      "6.4.11"
+    ],
+    "variants": [
+      "What should a management review actually decide?",
+      "Who needs to hear about management review decisions?",
+      "What are the required outputs from a management review?"
+    ]
+  },
+  {
+    "question": "How should a site prioritize EHSS improvements?",
+    "answer": "Consider applicable obligations, EHSS risks and credible high-consequence events, weaknesses in critical controls, incidents and recurring findings, negative performance trends, and opportunities with potential benefit across Maaden. Share relevant learning and effective practices across the Business Units, sites and Corporate Functions affected.",
+    "refs": [
+      "6.4.13",
+      "6.4.14"
+    ],
+    "variants": [
+      "Which improvement opportunities should a site address first?",
+      "Should recurring findings affect improvement priorities?",
+      "Who should receive lessons from an effective practice?"
+    ]
+  },
+  {
+    "question": "What must a management review action record and how is it closed?",
+    "answer": "Define an accountable owner, required outcome and target completion date. Track the action to completion and escalate it if overdue or if the related risk or performance gap changes materially. Verify effectiveness at closure where necessary to confirm the required outcome was achieved.",
+    "refs": [
+      "6.4.16",
+      "6.4.17",
+      "6.4.18"
+    ],
+    "variants": [
+      "What goes on a management review action?",
+      "When should an overdue management review action be escalated?",
+      "Do management review actions need effectiveness checks?"
+    ]
+  },
+  {
+    "question": "Who owns MSHEM and controls changes to the standard?",
+    "answer": "Corporate EHSS owns and controls MSHEM. It establishes, maintains, approves, issues and communicates MSHEM documentation. With support from the relevant subject matter experts, Corporate EHSS evaluates the requirements at least annually. It revises MSHEM when that evaluation or another significant change identifies a need, and conducts a comprehensive review at least every three years.",
+    "refs": [
+      "2.1.14",
+      "2.1.15",
+      "2.1.17",
+      "2.1.18"
+    ],
+    "variants": [
+      "who owns MSHEM",
+      "who is the custodian of MSHEM",
+      "who can revise the corporate standard",
+      "how often is the management system comprehensively reviewed"
+    ]
+  },
+  {
+    "question": "Who approves a High risk for continued operation or final acceptance?",
+    "answer": "For an initial High risk, continued operation requires immediate verbal authorization from the relevant Vice President or equivalent N-3 position as a minimum. Record the decision and interim controls. Document approval within three working days, with a maximum validity of three months. Escalate if interim controls are missing or do not reduce the initial risk.\n\nFor final residual risk after all reasonably practicable controls are in place, the matrix score determines acceptance. A High residual score of 34–36 needs ALARP justification and approval by the relevant Senior Vice President or equivalent N-2 position as a minimum. A score of 37–42 is intolerable. Further controls are required and final acceptance is prohibited.",
+    "refs": [
+      "2.5.15",
+      "2.5.19",
+      "2.5.20",
+      "2.5.21",
+      "2.5.22",
+      "2.5.25"
+    ],
+    "variants": [
+      "who approves a high risk",
+      "who can accept a high residual risk",
+      "who authorizes continued operation at high initial risk",
+      "does a high risk need VP or SVP approval"
+    ]
+  }
+]
